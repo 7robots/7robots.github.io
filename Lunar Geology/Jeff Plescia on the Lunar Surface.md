@@ -1,3 +1,10 @@
+---
+layout: default
+title: Jeff Plescia on the Lunar Surface
+parent: Lunar Geology
+nav_order: 5
+---
+
 # Jeff Plescia on the Lunar Surface
 
 ## Video:

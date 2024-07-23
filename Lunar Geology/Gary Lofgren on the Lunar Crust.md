@@ -1,3 +1,10 @@
+---
+layout: default
+title: Gary Lofgren on the Lunar Crust
+parent: Lunar Geology
+nav_order: 3
+---
+
 # Gary Lofgren on the Lunar Crust
 
 ## Video:
