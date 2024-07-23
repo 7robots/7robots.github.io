@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lunar Lava Tube
+parent: Lunar Geology
+nav_order: 15
+---
 # Lunar Lava Tube
 
 *Lunar lava tubes* are  [lava tubes](https://en.wikipedia.org/wiki/Lava_tubes)  on the  [Moon](https://en.wikipedia.org/wiki/Moon)  formed during the eruption of  [basaltic lava](https://en.wikipedia.org/wiki/Basalt)  flows. When the surface of a  [lava](https://en.wikipedia.org/wiki/Lava)  flow cools, it hardens and the lava can channel beneath the surface in a tube-shaped passage. Once the flow of lava diminishes, the tube may drain, forming a hollow void. Lunar lava tubes are formed on sloped surfaces that range in angle from 0.4° to 6.5°._1([https://en.wikipedia.org/wiki/Lunar_lava_tube](https://en.wikipedia.org/wiki/Lunar_lava_tube)

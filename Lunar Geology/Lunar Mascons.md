@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lunar Mascons
+parent: Lunar Geology
+nav_order: 12
+---
 # Lunar Mascons
 
 The Moon is the most gravitationally “lumpy” major body known in the solar system. Its largest mascons can cause a plumb bob to hang about a third of a degree off vertical, pointing toward the mascon, and increase the force of gravity by one-half percent._2([https://en.wikipedia.org/wiki/Mass_concentration_(astronomy)](https://en.wikipedia.org/wiki/Mass_concentration_(astronomy))

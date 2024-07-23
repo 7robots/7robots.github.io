@@ -1,4 +1,9 @@
-# APOD 2017 25 Oct - Marius Hills and a Hole in the
+---
+layout: default
+title: APOD 2017 25 Oct - Marius Hills
+parent: Lunar Geology
+nav_order: 22
+---
 
 # APOD 2017 25 Oct - Marius Hills and a Hole in the Moon
 

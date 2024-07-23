@@ -1,3 +1,9 @@
+---
+layout: default
+title: Aitken Basin
+parent: Lunar Geology
+nav_order: 17
+---
 # Aitken Basin
 
 ![213F5635-89C5-4260-AC82-34DDB4AD2C45.jpeg](Aitken%20Basin.assets/213F5635-89C5-4260-AC82-34DDB4AD2C45.jpeg)

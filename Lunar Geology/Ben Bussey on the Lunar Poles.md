@@ -1,3 +1,10 @@
+---
+layout: default
+title: Ben Bussey on the Lunar Poles
+parent: Lunar Geology
+nav_order: 7
+---
+
 # Ben Bussey on the Lunar Poles
 
 ## Video:

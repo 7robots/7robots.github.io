@@ -1,3 +1,9 @@
+---
+layout: default
+title: Regolith
+parent: Lunar Geology
+nav_order: 14
+---
 # Regolith
 
 ## Overview

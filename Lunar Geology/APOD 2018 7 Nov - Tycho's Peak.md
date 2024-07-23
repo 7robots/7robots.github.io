@@ -1,3 +1,9 @@
+---
+layout: default
+title: APOD 2018 7 Nov - Tycho's Peak
+parent: Lunar Geology
+nav_order: 13
+---
 # APOD 2018 7 Nov - Tycho's Peak
 
 ![TychoBoulder2_LRO_960.jpeg](APOD%202018%207%20Nov%20-%20Tycho's%20Peak.assets/TychoBoulder2_LRO_960.jpeg)

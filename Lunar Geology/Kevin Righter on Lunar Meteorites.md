@@ -1,3 +1,9 @@
+---
+layout: default
+title: Kevin Righter on Lunar Meteorites
+parent: Lunar Geology
+nav_order: 6
+---
 # Kevin Righter on Lunar Meteorites
 
 ## Video:

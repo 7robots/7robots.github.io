@@ -1,4 +1,9 @@
-# APOD 4 December 1996 — Ice at the Lunar South Pole
+---
+layout: default
+title: APOD 4 December 1996 Ice at the Lunar South Pol
+parent: Lunar Geology
+nav_order: 10
+---
 
 # APOD: 4 December 1996 — Ice at the Lunar South Pole
 

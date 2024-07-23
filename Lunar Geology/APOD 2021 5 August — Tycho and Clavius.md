@@ -1,4 +1,9 @@
-# APOD 2021 5 August — Tycho and Clavius
+---
+layout: default
+title: APOD 2021 5 August - Tycho and Clavius
+parent: Lunar Geology
+nav_order: 21
+---
 
 # APOD: 2021 5 August — Tycho and Clavius
 
