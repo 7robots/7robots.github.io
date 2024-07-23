@@ -1,0 +1,6 @@
+# APOD Central Peak of Tycho Crater
+
+![tychoCentralPeaks_lro950.jpeg](APOD%20Central%20Peak%20of%20Tycho%20Crater.assets/tychoCentralPeaks_lro950.jpeg)
+
+**Explanation:**  Tycho crater's central peak complex casts a [long, dark shadow](https://apod.nasa.gov/apod/ap110705.html) near [local sunrise](https://apod.nasa.gov/apod/ap100327.html) in this [spectacular lunarscape](http://lroc.sese.asu.edu/news/?archives/411-Tycho-Central-Peak-Spectacular!.html). The dramatic oblique view was recorded on June 10, 2011 by the Lunar Reconnaissance Orbiter. Shown in amazing detail, boulder strewn slopes and jagged shadows appear in the [highest resolution version](http://wms.lroc.asu.edu/lroc_browse/view/M162350671) at 1.5 meters per pixel. The rugged complex is about 15 kilometers wide, formed in uplift by the giant [impact that created](http://www.lpi.usra.edu/lunar/missions/orbiter/lunar_orbiter/impact_crater/) the [well-known](https://apod.nasa.gov/apod/ap050305.html) ray crater [100 million years ago](http://www.lpi.usra.edu/lunar/lunar_flyovers/tycho_crater/). The summit of its central peak reaches 2 kilometers above the [Tycho crater floor](http://lroc.sese.asu.edu/news/?archives/166-The-Floor-of-Tycho--Constellation-Region-of-Interest.html).
+
