@@ -1,3 +1,9 @@
+---
+layout: default
+title: ScoreCard of Major Theories of Lunar Creation
+parent: History of the Moon
+nav_order: 2
+---
 # ScoreCard of Major Theories of Lunar Creation
 
 ## Theory Explanations:

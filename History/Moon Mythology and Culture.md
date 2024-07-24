@@ -1,3 +1,9 @@
+---
+layout: default
+title: Moon Mythology and Culture
+parent: History of the Moon
+nav_order: 9
+---
 # Moon Mythology and Culture
 
 Moon Mythology and Culture

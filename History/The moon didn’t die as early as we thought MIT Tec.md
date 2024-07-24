@@ -1,4 +1,9 @@
-# The moon didn’t die as early as we thought MIT Tec
+---
+layout: default
+title: The Moon didn't die as early as we thought | MIT Review
+parent: History of the Moon
+nav_order: 3
+---
 
 # The moon didn’t die as early as we thought | MIT Technology Review
 

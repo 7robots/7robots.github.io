@@ -1,4 +1,9 @@
-# Scientific American When the Earth and Moon Were O
+---
+layout: default
+title: When the Earth and Moon Were One | Scientific American 
+parent: History of the Moon
+nav_order: 6
+---
 
 # Scientific American: When the Earth and Moon Were One
 

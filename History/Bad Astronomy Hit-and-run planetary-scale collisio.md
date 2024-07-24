@@ -1,3 +1,9 @@
+---
+layout: default
+title: Hit and Run Collisions | Bad Astronomy
+parent: History of the Moon
+nav_order: 13
+---
 # Bad Astronomy Hit-and-run planetary-scale collisio
 
 # Bad Astronomy | Hit-and-run planetary-scale collisions may have shaped Earth, Venus, and the Moon

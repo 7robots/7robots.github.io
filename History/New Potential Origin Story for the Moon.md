@@ -1,3 +1,9 @@
+---
+layout: default
+title: New Potential Origin Story for the Moon
+parent: History of the Moon
+nav_order: 7
+---
 # New Potential Origin Story for the Moon
 
 A new view of the moon

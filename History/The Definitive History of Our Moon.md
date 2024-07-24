@@ -1,3 +1,10 @@
+---
+layout: default
+title: The Definitive History of Our Moon
+parent: History of the Moon
+nav_order: 4
+---
+
 # The Definitive History of Our Moon
 
 [https://bigthink.com/mike-colagrossi/the-definitive-history-of-our-moon](https://bigthink.com/mike-colagrossi/the-definitive-history-of-our-moon)

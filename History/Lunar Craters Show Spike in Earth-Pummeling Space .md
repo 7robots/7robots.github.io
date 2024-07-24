@@ -1,4 +1,9 @@
-# Lunar Craters Show Spike in Earth-Pummeling Space
+---
+layout: default
+title: Lunar Craters Show Spike in Earth-Pummeling Space Rocks | Space.com
+parent: History of the Moon
+nav_order: 12
+---
 
 # Lunar Craters Show Spike in Earth-Pummeling Space Rocks
 

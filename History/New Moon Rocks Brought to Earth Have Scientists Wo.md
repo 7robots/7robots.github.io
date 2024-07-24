@@ -1,3 +1,9 @@
+---
+layout: default
+title: New Moon Rocks Brought to Earth Have Scientists Wondering How They Melted | Gizmodo
+parent: History of the Moon
+nav_order: 8
+---
 # New Moon Rocks Brought to Earth Have Scientists Wo
 
 # New Moon Rocks Brought to Earth Have Scientists Wondering How They Melted - Gizmodo
