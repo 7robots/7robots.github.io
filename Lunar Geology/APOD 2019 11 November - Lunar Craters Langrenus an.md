@@ -1,7 +1,8 @@
 ---
 layout: default
 title: APOD 2019 11 November Lunar Craters Langrenus and Petavius 
-parent: Lunar Geology
+parent: Lunar Geology Astronomy Pictures of the Day
+grand_parent: Lunar Geology
 nav_order: 9
 ---
 

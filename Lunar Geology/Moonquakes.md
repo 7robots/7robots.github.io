@@ -1,3 +1,11 @@
+---
+layout: default
+title: Moonquakes
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
+nav_order: 3
+---
+
 # Moonquakes
 
 ![aldrinseismometer_apollo11.jpeg](Moonquakes.assets/aldrinseismometer_apollo11.jpeg)

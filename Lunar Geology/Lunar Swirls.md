@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Lunar Swirls
-parent: Lunar Geology
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
 nav_order: 15
 ---
 # Lunar Swirls

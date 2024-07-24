@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Lunar Mantle Rocks on Surface
-parent: Lunar Geology
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
 nav_order: 18
 ---
 # Lunar Mantle Rocks on Surface

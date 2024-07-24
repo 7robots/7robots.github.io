@@ -1,3 +1,11 @@
+---
+layout: default
+title: Orange Soil
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
+nav_order: 5
+---
+
 # Orange Soil
 
 ## Overview

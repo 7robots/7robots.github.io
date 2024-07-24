@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Lunar Mascons
-parent: Lunar Geology
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
 nav_order: 12
 ---
 # Lunar Mascons

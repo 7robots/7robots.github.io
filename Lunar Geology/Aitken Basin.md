@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Aitken Basin
-parent: Lunar Geology
-nav_order: 17
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
+nav_order: 2
 ---
 # Aitken Basin
 

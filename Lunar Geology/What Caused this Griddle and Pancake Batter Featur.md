@@ -1,7 +1,8 @@
 ---
 layout: default
 title: What Caused this Griddle and Pancake Batter Feature on the Moon?
-parent: Lunar Geology
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
 nav_order: 4
 ---
 

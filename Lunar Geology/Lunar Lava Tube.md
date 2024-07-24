@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Lunar Lava Tube
-parent: Lunar Geology
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
 nav_order: 15
 ---
 # Lunar Lava Tube

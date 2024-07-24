@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Gel-like Substance on the Moon
-parent: Lunar Geology
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
 nav_order: 11
 ---
 

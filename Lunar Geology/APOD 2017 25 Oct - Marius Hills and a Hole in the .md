@@ -1,7 +1,8 @@
 ---
 layout: default
 title: APOD 2017 25 Oct - Marius Hills
-parent: Lunar Geology
+parent: Lunar Geology Astronomy Pictures of the Day
+grand_parent: Lunar Geology
 nav_order: 22
 ---
 

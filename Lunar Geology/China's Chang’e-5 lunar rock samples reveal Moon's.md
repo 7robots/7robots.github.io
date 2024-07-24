@@ -1,7 +1,8 @@
 ---
 layout: default
 title: China's Chang`e-5 lunar rock samples reveal Moon's recent volcanic activity
-parent: Lunar Geology
+parent: Lunar Geology Features
+grand_parent: Lunar Geology
 nav_order: 19
 ---
 
