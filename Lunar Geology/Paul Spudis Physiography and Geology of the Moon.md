@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Paul Spudis Physiography and Geology of the Moon
-parent: Lunar Geology
+parent: Lunar Lecture Series
+grand_parent: Lunar Geology
 nav_order: 2
 ---
 

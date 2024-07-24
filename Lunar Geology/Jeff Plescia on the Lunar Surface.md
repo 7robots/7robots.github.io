@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Jeff Plescia on the Lunar Surface
-parent: Lunar Geology
+parent: Lunar Lecture Series
+grand_parent: Lunar Geology
 nav_order: 5
 ---
 

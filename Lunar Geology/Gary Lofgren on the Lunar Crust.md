@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Gary Lofgren on the Lunar Crust
-parent: Lunar Geology
+parent: Lunar Lecture Series
+grand_parent: Lunar Geology
 nav_order: 3
 ---
 
