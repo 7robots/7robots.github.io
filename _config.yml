@@ -1,8 +1,10 @@
-title: moonbase
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: moonbase.7robots.org
+description: my collection of notes, articles, and info about the Moon and its geology
 theme: just-the-docs
 
 url: https://7robots.github.io/moonbase
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+logo: "/assets/Moon.jpeg"
+color_scheme: dark
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
