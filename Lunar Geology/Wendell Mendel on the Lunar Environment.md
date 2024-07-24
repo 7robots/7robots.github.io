@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Wendell Mendel on the Lunar Environment
-parent: Lunar Geology
+parent: Lunar Lecture Series
+grand_parent: Lunar Geology
 nav_order: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Kevin Righter on Lunar Meteorites
-parent: Lunar Geology
+parent: Lunar Lecture Series
+grand_parent: Lunar Geology
 nav_order: 6
 ---
 # Kevin Righter on Lunar Meteorites

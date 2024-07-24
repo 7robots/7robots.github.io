@@ -1,7 +1,8 @@
 ---
 layout: default
 title: APOD 4 December 1996 Ice at the Lunar South Pol
-parent: Lunar Geology
+parent: Lunar Geology Astronomy Pictures of the Day
+grand_parent: Lunar Geology
 nav_order: 10
 ---
 
