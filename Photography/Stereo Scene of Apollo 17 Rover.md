@@ -1,0 +1,6 @@
+# Stereo Scene of Apollo 17 Rover
+
+![a17anaglyph_vanMeijgaarden_1024v.jpeg](Stereo%20Scene%20of%20Apollo%2017%20Rover.assets/a17anaglyph_vanMeijgaarden_1024v.jpeg)
+
+**Explanation:**  Get out your red/blue glasses and check out this stereo scene from [Taurus-Littrow](https://apod.nasa.gov/apod/ap171124.html) valley on the Moon! The color anaglyph features a [detailed](https://apod.nasa.gov/apod/ap040417.html) 3D view of Apollo 17's [Lunar Rover](https://apod.nasa.gov/apod/ap040605.html) in the foreground–behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able [to watch](https://www.nasa.gov/apollo45/) the [Lunar Module's](https://apod.nasa.gov/apod/ap060107.html) ascent stage liftoff via the rover's TV camera, this  [parking place](https://www.nasa.gov/mission_pages/LRO/news/apollo-sites.html) was also known as the VIP Site. In December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evans [orbited overhead](https://apod.nasa.gov/apod/ap150103.html). The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmitt are still the last [to walk](http://www.alanbeangallery.com/) (or drive) [on the Moon](http://www.hq.nasa.gov/alsj/frame.html).
+

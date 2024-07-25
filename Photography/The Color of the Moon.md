@@ -1,0 +1,8 @@
+# The Color of the Moon
+
+The Color of the Moon
+
+![Mooncolor060110schedler_35x32.jpeg](The%20Color%20of%20the%20Moon.assets/Mooncolor060110schedler_35x32.jpeg)
+
+**Explanation:**  [Earth's Moon](http://www.lhl.lib.mo.us/events_exhib/exhibit/ex_face_moon.shtml) is normally seen in subtle shades of grey or yellow. But [small color differences](http://www.atalaia.org/filipe/moon/colorofthemoon.htm) have been greatly exaggerated to make [this dramatic mosaic image](http://panther-observatory.com/gallery/moon/doc/Mooncolor_060110.htm) of the Moon's gibbous phase. The familiar Sea of Tranquility ([Mare Tranquillitatis](http://volcano.und.nodak.edu/vwdocs/planet_volcano/lunar/mare/mlm.html)) is the blue area right of center. White lines radiate from the [crater Tycho](https://apod.nasa.gov/apod/ap050305.html) at bottom left, while purplish tones mottle the crater [Copernicus](https://apod.nasa.gov/apod/ap010513.html) left of center. Though exaggerated, the different colors are recognized to correspond to real [differences](https://apod.nasa.gov/apod/ap960601.html) in the chemical makeup of the lunar surface - blue hues reveal [titanium rich](http://www.psrd.hawaii.edu/Dec00/highTi.html) areas while orange and purple colors show regions relatively poor in titanium and iron. Calibrated by [rock samples](http://www.lpi.usra.edu/expmoon/Apollo11/A11_Samples_tools.html) from the Apollo missions, similar multicolor [images from spacecraft](https://apod.nasa.gov/apod/ap020316.html) have been used to explore [the Moon's](http://www.psrd.hawaii.edu/Dec04/LunarCrust.html) global surface composition.
+
