@@ -1,3 +1,8 @@
+---
+layout: default
+title: Moon Facts
+nav_exclude: true
+---
 # Moon Facts
 
 ## Location in the Solar System:
