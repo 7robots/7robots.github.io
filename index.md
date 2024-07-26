@@ -10,9 +10,9 @@ A personal website (and work in progress) dedicated to **selenography**: the sci
 
 [[Selenography/Moon Facts]]
 
-[[Selenography/Paul Spudis' Introduction to the Moon]]
+[[Paul Spudis' Introduction to the Moon]]
 
-[[Selenography/Lunar Lecture Series]]
+[[Lunar Geology/Lunar Lecture Series]]
 
 [[Selenography/NASA's Page on the Moon]]
 
@@ -91,4 +91,4 @@ More NASA-JPL Facts
 
 [[Selenography/History/The Big Splat]]
 
-Created and maintained by[ Jefferson Burson](www.7robots.org).
+Created and maintained by[ Jefferson Burson](https://www.7robots.org).
