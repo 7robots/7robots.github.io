@@ -7,6 +7,7 @@ nav_order: 2
 ---
 
 # Paul Spudis Physiography and Geology of the Moon
+“Dr. Paul Spudis discusses the physiography and geology of the moon including: terrains, landforms, topography (photogeology), impact crater formation, excavation, ejecta emplacement, secondaries, impact melting and shock metamorphism, lunar meteorites, flux through time; cataclysm, periodicity, correlation with terrestrial record and other planets.” [^ https://www.lpi.usra.edu/lunar/moon101/#physiography]
 
 ## Video:
 
@@ -14,5 +15,5 @@ nav_order: 2
 
 ## Slides:
 
-[https://spudislunarresources.com/moon101/moon_101_geology.pdf](https://spudislunarresources.com/moon101/moon_101_geology.pdf)
+[https://spudislunarresources.nss.org/moon101/moon_101_geology.pdf](https://spudislunarresources.nss.org/moon101/moon_101_geology.pdf)
 
