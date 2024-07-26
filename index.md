@@ -8,7 +8,7 @@ A personal website (and work in progress) dedicated to **selenography**: the sci
 
 # Moon Overview
 
-- [[Selenography/Moon Facts]]
+- [Moon Facts](Moon Facts)
 - [NASA's Page on the Moon](https://science.nasa.gov/moon/)
 - [Paul Spudis' Introduction to the Moon](SpudisIntrotoMoon)
 - [NASA Lunar Lecture Series](https://www.lpi.usra.edu/lunar/moon101/)
