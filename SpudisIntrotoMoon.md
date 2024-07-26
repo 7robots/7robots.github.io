@@ -1,3 +1,9 @@
+---
+layout: default
+title: Paul Spudis’ Introduction to the Moon
+nav_order: 3
+---
+
 # Paul Spudis' Introduction to the Moon
 
 ## Video:
