@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Paul Spudis’ Introduction to the Moon
-nav_order: 3
+nav_exclude: true
 ---
 
 # Paul Spudis' Introduction to the Moon
