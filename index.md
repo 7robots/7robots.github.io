@@ -10,9 +10,9 @@ A personal website (and work in progress) dedicated to **selenography**: the sci
 
 [[Selenography/Moon Facts]]
 
-[[Paul Spudis' Introduction to the Moon]]
+[[moonbase/Paul Spudis' Introduction to the Moon]]
 
-[[Lunar Geology/Lunar Lecture Series]]
+[[moonbase/Lunar Geology/LunarLectureSeries]]
 
 [[Selenography/NASA's Page on the Moon]]
 
