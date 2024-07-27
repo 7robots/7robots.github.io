@@ -2,7 +2,8 @@
 title: Home
 layout: home
 ---
-# selenography.7robots.org
+![picture of moon](assets/moon-banner2.jpg)
+## selenography.7robots.org
 
 A personal website (and work in progress) dedicated to **selenography**: the scientific study of the Moon, in particular, its surface, physical features, and geology.
 

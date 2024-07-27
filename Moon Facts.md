@@ -14,10 +14,8 @@ nav_exclude: true
 - Radius of 1079.6 miles
 - Less than a 3rd the width of Earth
 - An average distance from Earth of 238,855 miles away
-
-○ You could fit 30 earth-sized planets between Earth and Moon
-
-○ Getting 1 inch further away from Earth each year
+- You could fit 30 earth-sized planets between Earth and Moon
+- Getting 1 inch further away from Earth each year
 
 ## LunaServ GIS Map Tool
 - [LunaServ MAP](https://webmap.lroc.asu.edu/lunaserv.html)
@@ -26,30 +24,21 @@ nav_exclude: true
 
 - elliptical orbit
 - Rotates at same rate that it revolves around Earth (called synchronous rotation). So, same hemisphere always faces Earth all of the time
-
-○ Hence the “dark side” of the Moon
+- Hence the “dark side” of the Moon
 
 - Moon makes a complete orbit of the Earth in 27 days
-
-○ It appears to orbit us every 29 days, trick due to the fact that we are moving as well, rotating on our axis, and orbiting the Sun
+- It appears to orbit us every 29 days, trick due to the fact that we are moving as well, rotating on our axis, and orbiting the Sun
 
 ## Composition:
 
 - solid iron-rich core is 149 miles in radius
-
-○ surrounded by a liquid iron shell 56 miles thick
-
-○ A partially molten layer 93 miles thick surrounds iron core
-
+- surrounded by a liquid iron shell 56 miles thick
+- A partially molten layer 93 miles thick surrounds iron core
 - Mantle extends from top of partially molten layer to the bottom of Moon’s crust
-
-○ Most likely made of minerals like olivine and pyroxene (made up of magnesium, iron, silicon, and oxygen atoms)
-
+- Most likely made of minerals like olivine and pyroxene (made up of magnesium, iron, silicon, and oxygen atoms)
 - Crust has a thickness of about 43 miles on Moon’s near side and 93 miles on far side
-
-○ Made up of oxygen, silicon, magnesium, iron, calcium, aluminum
-
-§ Small amounts of titanium, uranium, thorium, potassium, and hydrogen
+- Made up of oxygen, silicon, magnesium, iron, calcium, aluminum
+- Small amounts of titanium, uranium, thorium, potassium, and hydrogen
 
 ## Surface:
 
@@ -62,10 +51,8 @@ nav_exclude: true
 - These light and dark areas represent rocks of different composition and ages, which provides evidence for how early crust may have crystallized from a lunar magma ocean
 - Gravity on the surface of the Moon is about 1/6 of Earth
 - Temperature range:
-
-○ 260 degrees F when in full sun
-
-○ -280 degrees in darkness
+	- 260 degrees F when in full sun
+	- -280 degrees in darkness
 
 ## Atmosphere
 
