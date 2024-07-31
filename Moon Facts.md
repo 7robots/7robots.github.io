@@ -9,13 +9,14 @@ nav_exclude: true
 
 - Earth’s only moon
 - Fifth largest moon in the solar system
-- Brightest and largest object in our night sky
-- Only known moon in solar system until 1610 when Galileo discovered 4 moons in orbit around Jupiter
-- Radius of 1079.6 miles
+	- but the largest and most massive moon in the Solar System relative to its parent planet
+	- it’s even larger than Pluto
+- Equatorial radius of 1080 miles
 - Less than a 3rd the width of Earth
 - An average distance from Earth of 238,855 miles away
-- You could fit 30 earth-sized planets between Earth and Moon
-- Getting 1 inch further away from Earth each year
+	- this distance will vary from 221,829 to 252,898 miles over the course of a year
+	- that distance is about 30 times the diameter of the Earth
+	- Getting 1 inch further away from Earth each year
 
 ## LunaServ GIS Map Tool
 - [LunaServ MAP](https://webmap.lroc.asu.edu/lunaserv.html)
@@ -23,11 +24,11 @@ nav_exclude: true
 ## Orbit:
 
 - elliptical orbit
-- Rotates at same rate that it revolves around Earth (called synchronous rotation). So, same hemisphere always faces Earth all of the time
-- Hence the “dark side” of the Moon
-
+- Rotates at same rate that it revolves around Earth. So, same hemisphere always faces Earth all of the time
+	- this is known as synchronous rotation
+- As a result, we never see the far side (or “dark side”) of the Moon from the surface of the Earth
 - Moon makes a complete orbit of the Earth in 27 days
-- It appears to orbit us every 29 days, trick due to the fact that we are moving as well, rotating on our axis, and orbiting the Sun
+- It appears to orbit us every 29.5 days, trick due to the fact that we are moving as well, rotating on our axis, and orbiting the Sun
 
 ## Composition:
 
@@ -54,6 +55,10 @@ nav_exclude: true
 	- 260 degrees F when in full sun
 	- -280 degrees in darkness
 
+## Water:
+- Although initially thought to be without water, large concentrations of frozen water in the shadowed regions of the north and south poles of the Moon.
+- Meteor impacts also releases sub-surface lunar water, most of which is ejected into space
+
 ## Atmosphere
 
 - very thin and weak atmosphere, called exosphere
@@ -62,4 +67,9 @@ nav_exclude: true
 ## Magnetosphere
 
 - early moon may have developed an internal dynamo (mechanism for generating global magnetic fields), but today has a very weak magnetic field (thousands of times weaker than Earth’s)
+
+Sources:
+[^ https://science.nasa.gov/moon/facts/]
+[^ https://en.wikipedia.org/wiki/Moon]
+[^ https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html]
 
