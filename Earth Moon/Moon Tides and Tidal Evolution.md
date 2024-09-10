@@ -1,3 +1,9 @@
+---
+layout: default
+title: moon tides and Tidal Evolution
+parent: Earth Moon
+nav_order: 4
+---
 # Moon Tides and Tidal Evolution
 
 - Moon’s gravity — an attractive force on Earth’s oceans, causes them to rise and fall over the course of a day

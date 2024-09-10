@@ -1,4 +1,7 @@
-# NASA Moon Phase Simulator for 2019
+# Lunar Phase Simulators
 
-[https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4442](https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4442)
+https://mass.pbslearningmedia.org/resource/buac19-68-sci-ess-moonphaseint/lunar-phases-simulation/
+
+
+https://www.earthspacelab.com/app/moon-phases/
 

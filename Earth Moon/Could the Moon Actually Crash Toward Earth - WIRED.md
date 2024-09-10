@@ -1,3 +1,9 @@
+---
+layout: default
+title: Wired Article: Could the Moon Actually Crash Toward Earth?
+parent: Earth Moon
+nav_order: 7
+---
 # Could the Moon Actually Crash Toward Earth - WIRED
 
 # Could the Moon Actually Crash Toward Earth? - WIRED

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Earth Moon Earth Radio Bouncing
+parent: Earth Moon
+nav_order: 3
+---
 # Earth Moon Earth Radio Bouncing
 
 [https://en.wikipedia.org/wiki/Earth–Moon–Earth_communication](https://en.wikipedia.org/wiki/Earth%E2%80%93Moon%E2%80%93Earth_communication)
