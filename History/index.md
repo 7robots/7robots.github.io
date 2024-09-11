@@ -4,7 +4,7 @@ title: History of the Moon
 nav_order: 2
 has_children: true
 ---
-
+![](assets/moon-banner2.jpg)
 # History of the Moon
 
 - https://www.lpi.usra.edu/education/explore/marvelMoon/background/moon-formation/
