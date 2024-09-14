@@ -24,3 +24,7 @@ A third type of libration occurs due to the Earth’s rotation. As the Earth rot
 In addition to geometrical librations, the Moon also experiences physical librations, which involve actual pendulum-like wobbles and nodding motions. These physical librations are much smaller, with a primary pole-to-pole nodding of about 1.5° and a longitudinal oscillation of only a fraction of an arc minute. These subtle motions are detectable through laser signals bounced off reflectors placed on the Moon by Apollo missions and Soviet landers. Moreover, many other moons in the solar system, particularly those of Jupiter and Saturn, exhibit similar synchronous rotation, keeping the same face toward their parent planets due to gravitational locking. 
 
 (ChatGPT summary of https://pwg.gsfc.nasa.gov/stargaze/Smoon4.htm)
+
+## Relationship between libration, phases, and distance
+
+- [Rice article on librations](https://sparky.rice.edu/public-night/libration.html)
