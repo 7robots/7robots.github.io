@@ -27,4 +27,4 @@ In addition to geometrical librations, the Moon also experiences physical librat
 
 ## Relationship between libration, phases, and distance
 
-- [Rice article on librations](https://sparky.rice.edu/public-night/libration.html)
+- [Patrick Hartigan article on librations](https://sparky.rice.edu/public-night/libration.html)
