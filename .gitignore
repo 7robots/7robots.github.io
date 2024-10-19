@@ -15,3 +15,5 @@ _site/
 .bundle/
 vendor/
 
+.Ulysses-Settings.plist
+.DS_Store
