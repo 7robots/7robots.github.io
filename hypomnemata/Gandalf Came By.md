@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gandalf Came by
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Gandalf Came By
 

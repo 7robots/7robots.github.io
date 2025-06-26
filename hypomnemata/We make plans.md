@@ -1,7 +1,7 @@
 ---
 layout: default
 title: We make plans
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # We make plans
 

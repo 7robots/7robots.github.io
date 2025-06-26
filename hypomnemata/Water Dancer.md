@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Water dancer
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Water Dancer
 

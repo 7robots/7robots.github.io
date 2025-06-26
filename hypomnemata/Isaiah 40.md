@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Isaiah 40
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Isaiah 40
 

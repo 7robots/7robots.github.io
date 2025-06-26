@@ -1,7 +1,7 @@
 ---
 layout: default
 title: We lived in joy
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # We lived in joy
 

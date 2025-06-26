@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The stranger
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Stranger
 

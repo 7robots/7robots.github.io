@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Get out into the mountains
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Get out into the mountains
 

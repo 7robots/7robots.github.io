@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fermat
-parent: Hypomnemata
+parent: hypomnemata
 ---
 So I pay close attention, and note every detail.
 

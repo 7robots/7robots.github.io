@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eternal Return
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Eternal Return
 

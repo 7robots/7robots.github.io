@@ -1,7 +1,7 @@
 ---
 layout: default
 title: These things are there
-parent: Hypomnemata
+parent: hypomnemata
 ---
 These things are there. The garden and the tree
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Excerpt from Kraken
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Excerpt from Kraken
 

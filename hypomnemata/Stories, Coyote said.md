@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stories, Coyote said
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Stories, Coyote said ...
 

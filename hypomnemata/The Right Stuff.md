@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Right Stuff
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Right Stuff
 

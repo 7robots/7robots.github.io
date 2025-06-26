@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The story of your life
-parent: Hypomnemata
+parent: hypomnemata
 ---
 I would have liked to experience more of the heptapods’ worldview, to feel the way they feel. Then, perhaps I could immerse myself fully in the necessity of events, as they must, instead of merely wading in its surf for the rest of my life.
 

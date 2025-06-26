@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Be My Knife
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Be My Knife
 

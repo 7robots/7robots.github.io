@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cloudberry Jam
-parent: Hypomnemata
+parent: hypomnemata
 ---
 “Where did I come from?” you asked. “Where’s my father?”
 

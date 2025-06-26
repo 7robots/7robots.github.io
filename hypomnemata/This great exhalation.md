@@ -1,7 +1,7 @@
 ---
 layout: default
 title: This great exhalation
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # This great exhalation
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The City and the City
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The City and the City
 

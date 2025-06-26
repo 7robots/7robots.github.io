@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HAL
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # HAL
 

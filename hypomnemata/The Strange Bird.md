@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Strange Bird
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Strange Bird
 

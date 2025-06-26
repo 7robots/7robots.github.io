@@ -1,7 +1,7 @@
 ---
 layout: default
 title: To the children I loved
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # to the children i loved
 

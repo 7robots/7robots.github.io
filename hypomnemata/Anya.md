@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anya
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Anya
 

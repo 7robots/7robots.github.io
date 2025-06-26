@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prayer
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Tefilla: Prayer
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Last temptation
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Last Temptation
 

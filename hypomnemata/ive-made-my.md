@@ -1,7 +1,7 @@
 ---
 layout: default
 title: I’ve made my mind a sunless space
-parent: Hypomnemata
+parent: hypomnemata
 ---
 Lonni: 
 

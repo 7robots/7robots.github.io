@@ -1,7 +1,7 @@
 ---
 layout: default
 title: First Ideal
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # First Ideal
 

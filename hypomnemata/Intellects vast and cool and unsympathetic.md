@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intellects vast and cool and unsympathetic
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Intellects vast and cool and unsympathetic 
 

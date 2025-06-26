@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cloud Atlas
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Cloud Atlas
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gideon the Ninth
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Gideon the Ninth
 

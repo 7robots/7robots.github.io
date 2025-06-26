@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pablo Neruda
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Pablo Neruda
 

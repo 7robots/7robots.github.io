@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The People of the Book
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The People of the Book
 

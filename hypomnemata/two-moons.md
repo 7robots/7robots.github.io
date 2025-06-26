@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Two moons
-parent: Hypomnemata
+parent: hypomnemata
 ---
 
 No doubt about it: there were two moons.

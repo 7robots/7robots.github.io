@@ -1,7 +1,7 @@
 ---
 layout: default
 title: For there she was
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Mrs Dalloway
 

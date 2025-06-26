@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smilla’s Sense of Snow
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Smilla’s Sense of Snow
 

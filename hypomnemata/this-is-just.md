@@ -1,7 +1,7 @@
 ---
 layout: default
 title: This is just to say
-parent: Hypomnemata
+parent: hypomnemata
 ---
 
 I will listen

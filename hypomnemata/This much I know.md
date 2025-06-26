@@ -1,7 +1,7 @@
 ---
 layout: default
 title: This much I know
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # This much I know
 

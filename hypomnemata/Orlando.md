@@ -1,7 +1,7 @@
 ---
 layout: default
 title: She wrote
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Orlando
 

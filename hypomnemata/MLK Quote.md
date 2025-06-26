@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MLK quote
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # MLK Quote
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yggdrasil
-parent: Hypomnemata
+parent: hypomnemata
 ---
 
 “I know an ash, it is called Yggdrasil

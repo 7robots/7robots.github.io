@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beinga Quaker
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Being a Quaker
 

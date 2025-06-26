@@ -1,7 +1,7 @@
 ---
 layout: default
 title: This is a possible letter
-parent: Hypomnemata
+parent: hypomnemata
 ---
 But this is a new chapter. The city is going back in time, readying itself to start again with its simple piracy in the rich shores near my home. Everything has changed, and I find myself trembling, excited, biding my time, eager to finish this letter.
 

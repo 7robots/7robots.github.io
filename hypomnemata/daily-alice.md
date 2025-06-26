@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Daily Alice
-parent: Hypomnemata
+parent: hypomnemata
 ---
 Come from his burial, none knew where but she, Daily Alice came among them like daybreak, her tears like day-odorous dew. They swallowed tears and wonder before her presence, and made to leave; but no one would say later that she hadn't smiled for them, and made them glad with her blessing, as they parted. They sighed, some yawned, they took hands; they took themselves by twos and threes away to where she sent them, to rocks, fields, streams and woods, to the four corners of the earth, their kingdom new-made.
 

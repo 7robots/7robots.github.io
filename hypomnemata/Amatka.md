@@ -1,7 +1,7 @@
 ---
 layout: default
 title: We will carry you
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Amatka
 

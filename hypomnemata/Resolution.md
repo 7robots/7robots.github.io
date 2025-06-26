@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resolution
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Resolution
 

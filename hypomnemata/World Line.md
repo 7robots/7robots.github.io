@@ -1,7 +1,7 @@
 ---
 layout: default
 title: World line
-parent: Hypomnemata
+parent: hypomnemata
 ---
 
 # World Line

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Our time is up
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Our time is up
 

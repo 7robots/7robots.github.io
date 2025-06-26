@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How do you aim a volcano?
-parent: Hypomnemata
+parent: hypomnemata
 ---
 “The population of Iceland is 1,000 times smaller than that of the United States. We do not hide behind our apparent lack of superpower status. What we lack in manpower, we make up in volcanoes. But we are still figuring out how to aim them." 
 

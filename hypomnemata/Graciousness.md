@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Graciousness
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Graciousness
 

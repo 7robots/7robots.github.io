@@ -1,7 +1,7 @@
 ---
 layout: default
 title: We remain
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # We remain
 

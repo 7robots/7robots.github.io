@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resurrection Fern
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Resurrection Fern
 

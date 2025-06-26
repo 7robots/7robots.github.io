@@ -1,7 +1,7 @@
 ---
 layout: default
 title: All the trees
-parent: Hypomnemata
+parent: hypomnemata
 ---
 "For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands."
 

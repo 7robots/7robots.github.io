@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Love that dog
-parent: Hypomnemata
+parent: hypomnemata
 ---
 Love that dog
 

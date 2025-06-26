@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The fox said
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The fox said
 

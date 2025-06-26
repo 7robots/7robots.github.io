@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advocate
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Advocate
 

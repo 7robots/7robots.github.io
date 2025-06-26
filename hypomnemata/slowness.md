@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slowness
-parent: Hypomnemata
+parent: hypomnemata
 ---
 “In existential mathematics, that experience takes the form of two basic equations: the degree of slowness is directly proportional to the intensity of memory; the degree of speed is directly proportional to the intensity of forgetting.”
 

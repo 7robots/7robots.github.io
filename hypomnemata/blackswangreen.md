@@ -1,7 +1,7 @@
 ---
 layout: default
 title: blackswangreen
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # blackswangreen
 

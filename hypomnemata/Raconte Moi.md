@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Raconte Moi
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Raconte Moi
 

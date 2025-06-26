@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Streets
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Streets
 

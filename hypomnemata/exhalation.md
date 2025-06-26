@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exhalation
-parent: Hypomnemata
+parent: hypomnemata
 ---
 I hope that you were motivated by a desire for knowledge, a yearning to see what can arise from a universe’s exhalation. Because even if a universe’s life span is calculable, the variety of life that is generated within it is not. The buildings we have erected, the art and music and verse we have composed, the very lives we’ve led: none of them could have been predicted, because none of them was inevitable. Our universe might have slid into equilibrium emitting nothing more than a quiet hiss. The fact that it spawned such plenitude is a miracle, one that is matched only by your universe giving rise to you.
 

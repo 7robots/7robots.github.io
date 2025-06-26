@@ -1,7 +1,7 @@
 ---
 layout: default
 title: &
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # &
 

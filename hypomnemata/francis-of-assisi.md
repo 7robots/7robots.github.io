@@ -1,7 +1,7 @@
 ---
 layout: default
 title: All creatures of our God and King
-parent: Hypomnemata
+parent: hypomnemata
 ---
 All creatures of our God and King Lift up your voice and with us sing, Alleluia! Alleluia! Thou burning sun with golden beam, Thou silver moon with softer gleam! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dance
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Dance
 

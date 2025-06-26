@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The time of the locust
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Time of the Locust
 

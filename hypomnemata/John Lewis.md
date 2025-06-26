@@ -1,7 +1,7 @@
 ---
 layout: default
 title: John Lewis
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # John Lewis
 

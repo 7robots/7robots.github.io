@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Be taught now
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # More by David Whyte
 

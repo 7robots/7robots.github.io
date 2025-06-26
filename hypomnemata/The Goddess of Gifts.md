@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Goddess of Gifts
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Goddess of Gifts
 

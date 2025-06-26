@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Where were you
-parent: Hypomnemata
+parent: hypomnemata
 ---
 
 “Where were you when I laid the foundations of the earth? … When the morning stars sang together, and all the sons of God shouted for joy?”

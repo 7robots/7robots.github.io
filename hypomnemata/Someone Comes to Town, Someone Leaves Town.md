@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Someone Comes to Town, Someone Leaves Town
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Someone Comes to Town, Someone Leaves Town
 

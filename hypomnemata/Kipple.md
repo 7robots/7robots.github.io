@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kipple
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Kipple
 

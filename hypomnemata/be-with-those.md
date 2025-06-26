@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Be with those who help your being
-parent: Hypomnemata
+parent: hypomnemata
 ---
 Be with those who help your being.
 Don't sit with indifferent people, whose breath

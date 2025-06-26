@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dead astronauts
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Dead Astronauts
 

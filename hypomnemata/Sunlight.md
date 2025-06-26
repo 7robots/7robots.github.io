@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sunlight
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Sunlight
 

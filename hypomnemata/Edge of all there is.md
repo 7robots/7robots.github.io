@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Edge of all there is
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Edge of all there is
 

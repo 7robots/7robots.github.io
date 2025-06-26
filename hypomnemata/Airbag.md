@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Airbag
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Airbag
 

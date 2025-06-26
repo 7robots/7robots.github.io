@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Manual of Detection
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Manual of Detection
 

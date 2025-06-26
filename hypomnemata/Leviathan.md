@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leviathan
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Leviathan
 

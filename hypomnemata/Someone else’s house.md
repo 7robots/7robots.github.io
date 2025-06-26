@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Someone else’s house
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Someone else’s house
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2nd Corinithians
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # 2nd Corinthians
 

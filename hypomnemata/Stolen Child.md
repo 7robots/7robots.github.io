@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stolen Child
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Stolen Child
 

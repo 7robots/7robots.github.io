@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The wave returns
-parent: Hypomnemata
+parent: hypomnemata
 ---
 Picture a wave in the ocean.
 

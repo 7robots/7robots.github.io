@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Go to the limits of your longing
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Go to the limits of your longing
 

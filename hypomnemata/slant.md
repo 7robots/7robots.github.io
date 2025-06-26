@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slant
-parent: Hypomnemata
+parent: hypomnemata
 ---
 Tell all the truth, but tell it slant.
 

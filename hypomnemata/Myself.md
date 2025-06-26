@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Myself
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Myself
 

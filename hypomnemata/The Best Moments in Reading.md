@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The best moments in reading
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Best Moments in Reading
 

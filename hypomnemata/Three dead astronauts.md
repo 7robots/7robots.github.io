@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Three dead astronauts
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Three dead astronauts
 

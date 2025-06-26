@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Let us dare
-parent: Hypomnemata
+parent: hypomnemata
 ---
 The source of our suffering has been our timidity. We have been afraid to think….Let us dare to read, think, speak, write.” - John Adams
 

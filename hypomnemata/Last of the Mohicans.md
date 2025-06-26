@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Last of the Mohicans
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # Last of the Mohicans
 

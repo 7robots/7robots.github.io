@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The word
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # The Word
 

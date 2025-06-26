@@ -1,7 +1,7 @@
 ---
 layout: default
 title: May you find a love
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # May you find a love
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: You have never spoken before
-parent: Hypomnemata
+parent: hypomnemata
 ---
 
 # You have never spoken before

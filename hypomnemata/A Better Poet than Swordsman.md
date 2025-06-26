@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A better poet than swordsman
-parent: Hypomnemata
+parent: hypomnemata
 ---
 # A Better Poet than Swordsman
 
