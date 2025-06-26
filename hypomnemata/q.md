@@ -1,23 +1,7 @@
 ---
-layout: post
-title: "1Q84"
-microblog: false
-guid: http://7robots.micro.blog/2023/01/26/q.html
-post_id: 3913063
-date: 2023-01-26T14:43:10-0400
-lastmod: 2024-03-15T10:07:46-0400
-type: post
-categories:
-- "Commonplace"
-images:
-- https://7robots.micro.blog/uploads/2024/8fd9705b10.jpg
-photos:
-- https://7robots.micro.blog/uploads/2024/8fd9705b10.jpg
-photos_with_metadata:
-- url: https://7robots.micro.blog/uploads/2024/8fd9705b10.jpg
-  width: 0
-  height: 0
-url: /2023/01/26/q.html
+layout: default
+title: 1Q84
+parent: Hypomnemata
 ---
 He was suddenly aware of someone sitting beside him, holding his right hand. LIke a small creature seeking warmth, a hand slipped inside the pocket of his leather jacket and clasped his large hand. By the time he became fully aware, it had already happened. Without any preface, the situation had jumped to the next stage. How strange, Tengo thought, his eyes still closed. How did this happen? At one point time was flowing along so slowly that he could barely stand it. Then suddenly it had leapt ahead, skipping whatever lay between.
 

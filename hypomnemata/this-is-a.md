@@ -1,27 +1,7 @@
 ---
-layout: post
-title: "This is a Possible Letter"
-microblog: false
-guid: http://7robots.micro.blog/2023/02/15/this-is-a.html
-post_id: 3913106
-date: 2023-02-15T09:16:27-0400
-lastmod: 2024-03-16T09:16:33-0400
-type: post
-categories:
-- "Commonplace"
-images:
-- https://7robots.micro.blog/uploads/2024/aa690bd690.jpg
-photos:
-- https://7robots.micro.blog/uploads/2024/aa690bd690.jpg
-photos_with_metadata:
-- url: https://7robots.micro.blog/uploads/2024/aa690bd690.jpg
-  width: 0
-  height: 0
-url: /2023/02/15/this-is-a.html
-mastodon:
-  id: 109868940868770831
-  username: 7robots
-  hostname: mast.hpc.social
+layout: default
+title: This is a possible letter
+parent: Hypomnemata
 ---
 But this is a new chapter. The city is going back in time, readying itself to start again with its simple piracy in the rich shores near my home. Everything has changed, and I find myself trembling, excited, biding my time, eager to finish this letter.
 

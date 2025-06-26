@@ -1,27 +1,7 @@
 ---
-layout: post
-title: "Francis of Assisi - All Creatures of our God and King"
-microblog: false
-guid: http://7robots.micro.blog/2023/06/21/francis-of-assisi.html
-post_id: 3913054
-date: 2023-06-21T15:23:58-0400
-lastmod: 2024-03-16T09:11:13-0400
-type: post
-categories:
-- "Commonplace"
-images:
-- https://7robots.micro.blog/uploads/2024/94ffab352a.jpg
-photos:
-- https://7robots.micro.blog/uploads/2024/94ffab352a.jpg
-photos_with_metadata:
-- url: https://7robots.micro.blog/uploads/2024/94ffab352a.jpg
-  width: 0
-  height: 0
-url: /2023/06/21/francis-of-assisi.html
-mastodon:
-  id: 110583836893180543
-  username: 7robots
-  hostname: mast.hpc.social
+layout: default
+title: All creatures of our God and King
+parent: Hypomnemata
 ---
 All creatures of our God and King Lift up your voice and with us sing, Alleluia! Alleluia! Thou burning sun with golden beam, Thou silver moon with softer gleam! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!
 

@@ -1,23 +1,7 @@
 ---
-layout: post
-title: "I've made my mind a sunless space"
-microblog: false
-guid: http://7robots.micro.blog/2022/11/09/ive-made-my.html
-post_id: 3913009
-date: 2022-11-09T01:30:00-0400
-lastmod: 2024-03-15T10:06:46-0400
-type: post
-categories:
-- "Commonplace"
-images:
-- https://7robots.micro.blog/uploads/2024/7c5b2f7a95.jpg
-photos:
-- https://7robots.micro.blog/uploads/2024/7c5b2f7a95.jpg
-photos_with_metadata:
-- url: https://7robots.micro.blog/uploads/2024/7c5b2f7a95.jpg
-  width: 0
-  height: 0
-url: /2022/11/09/ive-made-my.html
+layout: default
+title: I’ve made my mind a sunless space
+parent: Hypomnemata
 ---
 Lonni: 
 

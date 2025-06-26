@@ -1,3 +1,8 @@
+---
+layout: default
+title: blackswangreen
+parent: Hypomnemata
+---
 # blackswangreen
 
 The sequence of doors we passed made me think of all the rooms of my past and future. The hospital ward I was born in, classrooms, tents, churches, offices, hotels, museums, nursing homes, the room I’ll die in. (Has it been built yet?) Cars’re rooms. So are woods. Skies’re ceilings. Distances’re walls. Wombs’re rooms made of mothers. Graves’re rooms made of soil.
