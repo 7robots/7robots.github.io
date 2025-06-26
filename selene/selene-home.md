@@ -1,12 +1,10 @@
 ---
-title: Home
-layout: home
-nav_order: 1
+layout: default
+title: selene
+nav_order: 3
+has_children: true
 ---
 ![](assets/moon-banner2.jpg)
-# commonplace.7robots.org
-An online commonplace book created and maintained by:
-[ Jefferson Burson](https://www.7robots.org).
 
 ## Moon Overview
 

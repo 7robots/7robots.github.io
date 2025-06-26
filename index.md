@@ -1,7 +1,7 @@
 ---
-title: Home
-layout: home
-nav_order: 1
+layout: default
+title: home
+nav_order: 2
 ---
 ![](assets/moon-banner2.jpg)
 # commonplace.7robots.org
@@ -13,12 +13,12 @@ An online commonplace book created and maintained by:
 {: .note-title }
 > hypomnemata 
 >
-> [interesting book quotes](hypomnemata)
+> [interesting book quotes](hypomnemata/hypomnemata-home)
 
 {: .note-title }
 > selene 
 >
-> [lunar science](selenography)
+> [lunar science](selene/selene-home)
 
 {: .note-title }
 > polis 
