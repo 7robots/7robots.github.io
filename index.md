@@ -9,7 +9,43 @@ An online commonplace book created and maintained by:
 [ Jefferson Burson](https://www.7robots.org).
 
 ## Table of Contents
-- [hypomnemata: interesting book quotes](hypomnemata)
+
+{: .note-title }
+> hypomnemata 
+>
+> [interesting book quotes](hypomnemata)
+
+{: .note-title }
+> selene 
+>
+> [lunar science](selenography)
+
+{: .note-title }
+> polis 
+>
+> [about Harvard, MA](polis)
+
+{: .note-title }
+> agora 
+>
+> [past conferences I’ve attended](agora)
+
+{: .note-title }
+> techne 
+>
+> [assorted geekery](techne)
+
+{: .note-title }
+> anthologia 
+>
+> [interesting articles](anthologia)
+
+{: .note-title }
+> melete 
+>
+> [mindfulness and meditation](melete)
+
+## old index
 - [selene: lunar science](selenography)
 - [polis: about Harvard, MA](polis)
 - [agora: past conferences I’ve attended](agora)
