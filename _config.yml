@@ -8,5 +8,11 @@ logo: "/assets/Moon.jpeg"
 color_scheme: dark
 nav_external_links_new_tab: true
 
+callouts:
+  warning:
+    title: note
+    color: red
+
+
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
