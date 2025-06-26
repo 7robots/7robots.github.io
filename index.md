@@ -1,7 +1,7 @@
 ---
 layout: default
 title: home
-nav_order: 2
+nav_order: 1
 ---
 ![](assets/moon-banner2.jpg)
 # commonplace.7robots.org
@@ -23,27 +23,27 @@ An online commonplace book created and maintained by:
 {: .note-title }
 > polis 
 >
-> [about Harvard, MA](polis)
+> [about Harvard, MA](polis/polis-home)
 
 {: .note-title }
 > agora 
 >
-> [past conferences I’ve attended](agora)
+> [past conferences I’ve attended](agora/agora-home)
 
 {: .note-title }
 > techne 
 >
-> [assorted geekery](techne)
+> [assorted geekery](techne/techne-home)
 
 {: .note-title }
 > anthologia 
 >
-> [interesting articles](anthologia)
+> [interesting articles](anthologia/anthologia-home)
 
 {: .note-title }
 > melete 
 >
-> [mindfulness and meditation](melete)
+> [mindfulness and meditation](melete/melete-home)
 
 
 
