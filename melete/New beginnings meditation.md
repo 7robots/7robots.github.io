@@ -1,3 +1,9 @@
+---
+layout: default
+title: New beginnings meditation
+parent: melete
+---
+
 # New beginnings meditation
 
 Breathing in, I am aware of all nutriments, habits, and people who are not supportive of my well-being

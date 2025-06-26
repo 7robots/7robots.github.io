@@ -1,3 +1,9 @@
+---
+layout: default
+title: Eating Meditation
+parent: melete
+---
+
 # Eating Meditation
 
 Breathing in, I am aware of my body.

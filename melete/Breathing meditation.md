@@ -1,3 +1,9 @@
+---
+layout: default
+title: Breathing meditation
+parent: melete
+---
+
 # Breathing meditation
 
 Breathe in, breathe out. Breathe in, breathe out. When I breathe in, I breathe in peace. When I breathe out, I breathe out love.

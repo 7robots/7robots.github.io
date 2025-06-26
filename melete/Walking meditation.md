@@ -1,3 +1,9 @@
+---
+layout: default
+title: Walking meditation
+parent: melete
+---
+
 # Walking meditation
 
 Take two or three steps for each in-breath and each out-breath. Breathing in, say, I have arrived ; breathing out, say, I am home.
