@@ -1,3 +1,8 @@
+---
+layout: default
+title: Stolen Child
+parent: Hypomnemata
+---
 # Stolen Child
 
 WHERE dips the rocky highland Of Sleuth Wood in the lake, There lies a leafy island Where flapping herons wake The drowsy water rats; There we’ve hid our faery vats, Full of berrys And of reddest stolen cherries. Come away, O human child! To the waters and the wild With a faery, hand in hand, For the world’s more full of weeping than you can understand.

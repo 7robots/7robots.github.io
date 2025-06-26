@@ -1,3 +1,9 @@
+---
+layout: default
+title: World line
+parent: Hypomnemata
+---
+
 # World Line
 
 Events are the atoms of experience.

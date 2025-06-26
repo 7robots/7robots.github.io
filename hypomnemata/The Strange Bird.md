@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Strange Bird
+parent: Hypomnemata
+---
 # The Strange Bird
 
 All the senseless things. All the senseless and unimportant things that fell away from the Strange Bird in that moment, that were forgotten or became meaningless. It had been a human need, the compass pulsing at her heart, and she was, in the end, much diminished for having followed it.

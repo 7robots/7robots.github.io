@@ -1,3 +1,8 @@
+---
+layout: default
+title: Edge of all there is
+parent: Hypomnemata
+---
 # Edge of all there is
 
 We saw to the edge of all there is — so brutal and alive it seemed to comprehend us back.

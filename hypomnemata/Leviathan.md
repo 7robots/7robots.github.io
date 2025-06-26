@@ -1,3 +1,8 @@
+---
+layout: default
+title: Leviathan
+parent: Hypomnemata
+---
 # Leviathan
 
 1 Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?

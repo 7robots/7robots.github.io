@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Goddess of Gifts
+parent: Hypomnemata
+---
 # The Goddess of Gifts
 
 An instant of sharp pain before the numbness. The world was floods above and fire below. If there was such a thing as a soul, the soul had gambled on a sort of baptism, and had it won?

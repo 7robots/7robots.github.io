@@ -1,3 +1,8 @@
+---
+layout: default
+title: Advocate
+parent: Hypomnemata
+---
 # Advocate
 
 He took the clay from the hand of the angel, and made Adam according to Our image and likeness, and He left him lying for forty days and forty nights without putting breath into him. And He heaved sighs over him daily, saying, ‘If I put breath into this [man], he must suffer many pains.’

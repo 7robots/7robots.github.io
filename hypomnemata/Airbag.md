@@ -1,3 +1,8 @@
+---
+layout: default
+title: Airbag
+parent: Hypomnemata
+---
 # Airbag
 
 In the next world war In a jackknifed juggernaut I am born again In the neon sign scrolling up and down I am born again

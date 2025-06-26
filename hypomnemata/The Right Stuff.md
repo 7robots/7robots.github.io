@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Right Stuff
+parent: Hypomnemata
+---
 # The Right Stuff
 
 There was a demon that lived in the air. They said whoever challenged him would die. Their controls would freeze up, their planes would buffet wildly, and they would disintegrate.

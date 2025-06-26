@@ -1,3 +1,9 @@
+---
+layout: default
+title: You have never spoken before
+parent: Hypomnemata
+---
+
 # You have never spoken before
 
 Before the humans came we didn't speak so much because we were like this one, who years ago was the girl who was hurt in darkness and ate what was given to her. We were like her. You decide why we were like her and why we were not like her. Why she's like herself or is not. We've been like all things; we left the city during the drug time and speak more now.

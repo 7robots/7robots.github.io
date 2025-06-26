@@ -1,3 +1,8 @@
+---
+layout: default
+title: Someone else’s house
+parent: Hypomnemata
+---
 # Someone else’s house
 
 I live as if in someone else’s house

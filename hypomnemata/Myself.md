@@ -1,3 +1,8 @@
+---
+layout: default
+title: Myself
+parent: Hypomnemata
+---
 # Myself
 
 “Who are you?” asked Shasta.

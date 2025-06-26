@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dead astronauts
+parent: Hypomnemata
+---
 # Dead Astronauts
 
 Limitless, I came to a world where the moon lay so huge and ivory and cratered that it blotted out the sun above a mirror-twin to Earth. Except, there in that strange land everything was alive and nothing was dead, even the dead, and I could find no familiar scent to guide me through. Where the rocks spoke to me and so did the water and so did the sand and so did the plants.

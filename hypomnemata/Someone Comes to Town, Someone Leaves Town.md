@@ -1,3 +1,8 @@
+---
+layout: default
+title: Someone Comes to Town, Someone Leaves Town
+parent: Hypomnemata
+---
 # Someone Comes to Town, Someone Leaves Town
 
 “I went to the house,

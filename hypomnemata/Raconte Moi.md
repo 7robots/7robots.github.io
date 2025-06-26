@@ -1,3 +1,8 @@
+---
+layout: default
+title: Raconte Moi
+parent: Hypomnemata
+---
 # Raconte Moi
 
 (tell me a story)

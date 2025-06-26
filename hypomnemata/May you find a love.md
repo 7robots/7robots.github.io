@@ -1,3 +1,8 @@
+---
+layout: default
+title: May you find a love
+parent: Hypomnemata
+---
 # May you find a love
 
 “My daddy, Big Ben Ross. He grab me up and say Harriet got to love who love Harriet.”

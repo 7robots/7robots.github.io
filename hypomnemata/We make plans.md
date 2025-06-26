@@ -1,3 +1,8 @@
+---
+layout: default
+title: We make plans
+parent: Hypomnemata
+---
 # We make plans
 
 And the more he talks the more he talks. He talks of plans. His voice hardens.

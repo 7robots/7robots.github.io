@@ -1,3 +1,8 @@
+---
+layout: default
+title: Be taught now
+parent: Hypomnemata
+---
 # More by David Whyte
 
 "Be taught now, among the trees and rocks

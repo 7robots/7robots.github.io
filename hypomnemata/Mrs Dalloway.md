@@ -1,3 +1,8 @@
+---
+layout: default
+title: For there she was
+parent: Hypomnemata
+---
 # Mrs Dalloway
 
 “What does the brain matter,” said Lady Rosseter, getting up, “compared with the heart?”

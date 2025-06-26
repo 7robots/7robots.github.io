@@ -1,3 +1,8 @@
+---
+layout: default
+title: You are a very fine person, Mr. Baggins
+parent: Hypomnemata
+---
 # You are a Very Fine Person, Mr Baggins
 
 “Then the prophecies of the old songs have turned out to be true, after a fashion!” said Bilbo.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Beinga Quaker
+parent: Hypomnemata
+---
 # Being a Quaker
 
 Attend to what love requires of you.

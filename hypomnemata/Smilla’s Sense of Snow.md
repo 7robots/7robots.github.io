@@ -1,3 +1,8 @@
+---
+layout: default
+title: Smilla’s Sense of Snow
+parent: Hypomnemata
+---
 # Smilla’s Sense of Snow
 
 Maybe it’s wrong when we remember breakthroughs to our own being as something that occurs in discrete, extraordinary moments. Maybe falling in love, the piercing knowledge that we ourselves will someday die, and the love of snow are in reality not some sudden events; maybe they were always present. Maybe they never completely vanish, either.

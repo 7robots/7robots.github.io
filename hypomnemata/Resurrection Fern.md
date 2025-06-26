@@ -1,3 +1,8 @@
+---
+layout: default
+title: Resurrection Fern
+parent: Hypomnemata
+---
 # Resurrection Fern
 
 In our days we will live Like our ghosts will live… Pitching glass at the cornfield crows And folding clothes

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Last temptation
+parent: Hypomnemata
+---
 # Last Temptation
 
 The dual substance of Christ – the yearning, so human, so superhuman, of man to attain to God or, more exactly, to return to God and identify himself with him – has always been a deep inscrutable mystery to me. This nostalgia for God, at once so mysterious and so real, has opened in me large wounds and also large flowing springs.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Excerpt from Kraken
+parent: Hypomnemata
+---
 # Excerpt from Kraken
 
 INTO SLEEP’s BENTHOS AND DEEPER. A SLANDER THAT THE DEEPEST parts are lightless. There are moments of phosphor with animal movement. Somatic glimmers, and in this trench of sleep those lights were tiny dreams.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Gideon the Ninth
+parent: Hypomnemata
+---
 # Gideon the Ninth
 
 In the myriadic year of our lord — the ten thousandth year of the King Undying, the kindly Prince of Death! — Gideon Nav packed her sword, her shoes and her dirty magazines, and she escaped from the House of the Ninth.

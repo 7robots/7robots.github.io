@@ -1,3 +1,8 @@
+---
+layout: default
+title: The City and the City
+parent: Hypomnemata
+---
 # The City and the City
 
 We are all philosophers here where I am, and we debate among many other things the question of where it is that we live. On that issue I am a liberal. I live in the interstice yes, but I live in both the city and the city.

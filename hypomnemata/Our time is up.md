@@ -1,3 +1,8 @@
+---
+layout: default
+title: Our time is up
+parent: Hypomnemata
+---
 # Our time is up
 
 I think our time is up.

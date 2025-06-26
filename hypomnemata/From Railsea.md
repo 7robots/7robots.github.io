@@ -1,3 +1,8 @@
+---
+layout: default
+title: &
+parent: Hypomnemata
+---
 # &
 
 There was a time when we did not form all words as now we do, in writing on a page. There was a time when the word “&” was written with several distinct & separate letters. It seems madness now. But there it is, & there is nothing we can do about it.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Anya
+parent: Hypomnemata
+---
 # Anya
 
 “But I don’t understand! I don’t understand how this all happens.
