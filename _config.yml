@@ -9,7 +9,7 @@ color_scheme: dark
 nav_external_links_new_tab: true
 
 callouts:
-  warning:
+  note:
     title: note-title
     color: red
 
