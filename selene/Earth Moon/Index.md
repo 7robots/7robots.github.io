@@ -3,6 +3,7 @@ layout: default
 title: Earth Moon
 nav_order: 3
 has_children: true
+parent: selene
 ---
 ![](/assets/moon-banner2.jpg)
 # Earth Moon
