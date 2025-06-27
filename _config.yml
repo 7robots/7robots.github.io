@@ -9,10 +9,14 @@ color_scheme: dark
 nav_external_links_new_tab: true
 
 callouts:
-  note:
+  selene:
     title: selene
     color: grey-lt
 
+callouts:
+  anthologia:
+    title: anthologia
+    color: red
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template

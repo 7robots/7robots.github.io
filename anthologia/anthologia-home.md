@@ -7,27 +7,27 @@ has_children: true
 
 # anthologia: interesting articles
 
-{: .note-title }
+{: .anthologia-title }
 > astronomy and physics 
 >
 > [interesting articles](astronomy-physics/astronomy-physics-home)
 
-{: .note-title }
+{: .anthologia-title }
 > biology 
 >
 > [biology](biology/biology-home)
 
-{: .note-title }
+{: .anthologia-title }
 > climate science 
 >
 > [climate science](climate-science/climate-science-home)
 
-{: .note-title }
+{: .anthologia-title }
 > geology 
 >
 > [geology](geology/geology-home)
 
-{: .note-title }
+{: .anthologia-title }
 > social sciences 
 >
 > [social sciences](social-sciences/social-sciences-home)
