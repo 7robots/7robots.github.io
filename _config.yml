@@ -12,35 +12,24 @@ callouts:
   selene:
     title: selene
     color: grey-lt
-
-callouts:
   anthologia:
     title: anthologia
     color: red
-
-callouts:
   hypomnemata:
     title: hypomnemata
     color: green
-  
-callouts:
   polis:
     title: polis
     color: blue
-  
-callouts:
   agora:
     title: agora
     color: yellow
-     
-callouts:
   melete:
     title: melete
-    color: orange   
-callouts:
+    color: purple   
   techne:
     title: techne
-    color: purple
+    color: grey-lt
     
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
