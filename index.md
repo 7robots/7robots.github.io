@@ -10,27 +10,27 @@ An online commonplace book created and maintained by:
 
 ## Table of Contents
 
-{: .note-title }
+{: .hypomnemata-title }
 > hypomnemata 
 >
 > [interesting book quotes](hypomnemata/hypomnemata-home)
 
-{: .note-title }
+{: .selene-title }
 > selene 
 >
 > [lunar science](selene/selene-home)
 
-{: .note-title }
+{: .polis-title }
 > polis 
 >
 > [about Harvard, MA](polis/polis-home)
 
-{: .note-title }
+{: .agora-title }
 > agora 
 >
 > [past conferences I’ve attended](agora/agora-home)
 
-{: .note-title }
+{: .techne-title }
 > techne 
 >
 > [assorted geekery](techne/techne-home)
@@ -40,7 +40,7 @@ An online commonplace book created and maintained by:
 >
 > [interesting articles](anthologia/anthologia-home)
 
-{: .note-title }
+{: .melete-title }
 > melete 
 >
 > [mindfulness and meditation](melete/melete-home)
