@@ -35,7 +35,7 @@ An online commonplace book created and maintained by:
 >
 > [assorted geekery](techne/techne-home)
 
-{: .note-title }
+{: .anthologia-title }
 > anthologia 
 >
 > [interesting articles](anthologia/anthologia-home)
