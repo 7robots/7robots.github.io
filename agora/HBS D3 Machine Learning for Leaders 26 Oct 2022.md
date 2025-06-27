@@ -149,7 +149,5 @@ HBS D3 Machine Learning for Leaders 26 Oct 2022
 	* Human-AI interaction
 		* evaluate beyond benchmarks, direct resources towards understanding people in the loop, societal consequences
 
-#harvard/projects/data
 
-#ea
 
