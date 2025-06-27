@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Charles Darwin
-parent: biology precis
+parent: biology-precis
 ---
 # Charles Darwin
 

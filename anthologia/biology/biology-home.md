@@ -17,13 +17,13 @@ parent: anthologia
 
 ## Interesting Articles
 
-https://www.newyorker.com/magazine/2023/11/13/determined-a-science-of-life-without-free-will-robert-sapolsky-book-review
+[New Yorker: Life without Free Will](https://www.newyorker.com/magazine/2023/11/13/determined-a-science-of-life-without-free-will-robert-sapolsky-book-review)
 
-https://www.scientificamerican.com/article/consciousness-might-hide-in-our-brains-electric-fields/
+[SciAm: Consciousness might hide in our brains’ electric fields](https://www.scientificamerican.com/article/consciousness-might-hide-in-our-brains-electric-fields/)
 
-https://www.nationalgeographic.com/animals/article/animals-discovered-deep-sea-hydrothermal-vents
+[NatGeo: deep sea thermal vents](https://www.nationalgeographic.com/animals/article/animals-discovered-deep-sea-hydrothermal-vents)
 
-https://mashable.com/article/deep-sea-ocean-discovery-2024
+[Mashable: deep sea ocean discovery](https://mashable.com/article/deep-sea-ocean-discovery-2024)
 
 
 
