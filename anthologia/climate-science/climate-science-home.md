@@ -6,7 +6,7 @@ has_children: true
 parent: anthologia
 ---
 
-# climate science: interesting articles
+# climate science: interesting articles and seminar notes
 
 
 
