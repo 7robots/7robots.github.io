@@ -1,8 +1,18 @@
 ---
 layout: default
-title: Myself
+title: "Myself"
 parent: hypomnemata
+nav_order: 51
 ---
+
+# Myself
+
+---
+
+## Author: C.S. Lewis
+Book: The Horse and His Boy
+Subject: Children’s Fiction
+
 # Myself
 
 “Who are you?” asked Shasta.

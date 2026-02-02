@@ -1,8 +1,18 @@
 ---
 layout: default
-title: Kipple
+title: "Kipple"
 parent: hypomnemata
+nav_order: 41
 ---
+
+# Kipple
+
+---
+
+## Author: Philip K. Dick
+Book: Do Androids Dream of Electric Sheep?
+Subject: Fiction
+
 # Kipple
 
 JR - Kipple is useless objects, like junk mail or match folders after you use the last match or gum wrappers of yesterday’s homeopape. When nobody’s around, kipple reproduces itself. For instance, if you go to bed leaving any kipple around your apartment, when you wake up the next morning there’s twice as much of it. It always gets more and more.

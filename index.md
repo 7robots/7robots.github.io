@@ -3,7 +3,7 @@ layout: default
 title: home
 nav_order: 1
 ---
-![](assets/moon-banner2.jpg)
+![](assets/moon-banner2.jpeg)
 # commonplace.7robots.org
 An online commonplace book created and maintained by:
 [ Jefferson Burson](https://www.7robots.org).
@@ -48,6 +48,7 @@ An online commonplace book created and maintained by:
 
 
 ## What is a commonplace book?
+- [Commonplace Books: Networked Knowledge and Combinatorial Creativity](https://fs.blog/networked-knowledge-and-combinatorial-creativity/)
 - [How to start a commonplace book](https://imperfectjournaling.com/commonplace-book/)
 
 

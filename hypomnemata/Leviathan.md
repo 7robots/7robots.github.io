@@ -1,8 +1,18 @@
 ---
 layout: default
-title: Leviathan
+title: "Leviathan"
 parent: hypomnemata
+nav_order: 44
 ---
+
+# Leviathan
+
+---
+
+## Author: Unknown
+Book: Job 41:1-8
+Subject: Religion
+
 # Leviathan
 
 1 Canst thou draw out leviathan with an hook? or his tongue with a cord which thou lettest down?

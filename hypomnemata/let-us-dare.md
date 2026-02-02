@@ -1,10 +1,24 @@
 ---
 layout: default
-title: Let us dare
+title: "Let-us-dare"
 parent: hypomnemata
+nav_order: 43
 ---
+
+# Let-us-dare
+
+---
+
+## Author: John Adams by way of David McCullough
+Book: John Adams
+Subject: Biography
+
+# Let us dare
+
 The source of our suffering has been our timidity. We have been afraid to think….Let us dare to read, think, speak, write.” - John Adams
 
-from John Adams by David McCullough  📚 💬
+from John Adams by David McCullough 📚 💬
 
-![Scribd image of McCullough book cover](https://7robots.micro.blog/uploads/2024/5cb4df8d9b.jpg "Scribd image of McCullough book cover")
+![5cb4df8d9b.jpeg](/hypomnemata/Let-us-dare.assets/5cb4df8d9b.jpeg)
+
+Scribd image of McCullough book cover

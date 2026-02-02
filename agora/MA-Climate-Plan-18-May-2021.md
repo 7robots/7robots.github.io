@@ -1,0 +1,121 @@
+---
+layout: default
+title: "MA-Climate-Plan-18-May-2021"
+parent: agora
+nav_order: 31
+---
+
+# MA-Climate-Plan-18-May-2021
+
+# MA Climate Plan 18 May 2021
+
+- Secretrary Kathleen Theoharides
+- State Goal to achieve net zero by 2050
+    - transportation
+    - electiriction consumption
+    - non-energy
+    - net carbon flux
+    - net zero emissions
+    - buildings
+    - MassDEP GHG Inventory
+    - Transportation
+    - 80x50 gross
+- MA Historical and Hypothetical Future GHC Emissions
+- S.9 An act creating an NG Roadmap for MA Climate Policy
+    - GWSA Updates
+    - Offshore Wind
+    - EE Building Code
+    - Environmental Justice
+- We slipped last year from #1 to #2 for energy efficiency in the US
+    - didn’t have updated standards for energy efficient appliances
+- Sental Bill 9: GWSA Updates
+    - 2030 no less than 50% below 1990 levels
+    - 2040 no less than 75% below 1990 levels
+    - 2050 net zero
+- S. 9: Offshore Wind
+    - authorizes MA to procure an dditional 2400 MW of offshore wind power
+    - would bring our total required authorization to 4000 MW by 2027
+    - we got federal permitting approval
+    - utilities recently issued issued 3rd offshore wind RfP
+    - vineyard wind cleared for construction
+- S.9 Building Code
+    - municipal opt-in code for cities and town
+    - must be available for opt-in by Nov 2022
+    - DOER must hold at least 5 public hearings
+    - Timeframe
+        - Stakeholer engagement initiating summer 2021
+        - draft proposal, public comment and public hearings fall 2021
+        - target for final promulgation spring 2022
+        - available for muni opt-in by mid to late 2022
+- S.9 Energy Efficiency
+    - 15 new products to MA standards
+    - minimum performance standards
+    - goes into effect Jan 2022
+    - better alignment of energy efficiency standards with emissions reduction goals
+- S.9 Environmental Justice
+    - defines environmental justice and burdens, including climatae change as an environmental burden
+    - expands Mass environmental Policy Act (MEPA) review to require an env impact report for aall projectects that impact air quality w/in 1 mile of an env justic neighborhood
+    - requires the Dept of Env Protiection to conduct stakeholder process to develop a cumulative impact analysis as a condition for permitting certain projects
+        - entire pollution burden over time, not just current/immediate project under review
+- 2050 Decarbonaziation Roadmap
+    - examined 8 economy-wide decarbonization scenarios thru 2050
+    - provies technologies, implentation options and overall cost
+    - summary report + 6 technical reports, each detailing analysis and detailed conclsuions by section
+- Top-Level finddsings
+    - it IS achievable if we are smart about our approach and strategies
+    - leveral existing lifecycle replacmenet schedules
+    - can do so affordably
+    - maintain a thriving economy
+    - ensure we bring everyone along, especially most vulnerable residents
+- More Key Findings
+    - balanced clean energy portfoliio anchored by a signifcant offshore wind resource
+    - more interstation transmission to allow us to access renewable gneration ion other states and in Canad
+    - widespred electriciation of transportaiton and building heat
+    - reduce cost by replacing energy infrastructure at end of service life
+- 2030 Clean Energy and Climate Plan
+    - long term 2050 goals needs to inform our shorter term goals for 2030
+    - good planning for lifecycle, foster innovation
+    - bring down costs
+    - this is the decade for action
+    - retrofit over a million homes
+    - 15% reduction in miles traveled
+    - increase EV’s by 750k
+- S.9 Next Steps
+    - develop and finalize the climate and clean energy plan
+    - include 2025 and 2030 intermediate goals
+    - figure out increasing carbon storage (forest mgmt)
+    - benefits to env justice communities?
+    - additional year of planning
+    - more opportunities for engagement w/ stakeholders and public
+    - commision on clean heat begins next month
+        - how to decarbonize heating sector
+- First-in-the-nation commission on Clean Heat
+    - wide range of impacted parties and experts
+    - will provide recommendatiosn to governaor aroudn the futture of clean heat
+    - 2021: long-term declining caps on heating fule emissions (gas, oil, propane) to be established in regulations by MassDEP in 2022
+    - 2022: commission to focus on devleoping supprting policies to transition towards clean heat and meet the cap
+    - commission will be convened in May/June, supported by inter-agency task foce
+- Vehicle Electrification
+    - MOR-EV program
+        - expanded rebate eligibility to incluce commerical and non-profit fleets to maintain deman
+        - expaned MOR-EV to ibnclue truckes, medium, and heavy duty vehicles
+        - additional incentives avaiabile for vehicles in EJ communites
+    - Fleet Advisory Program
+        - will provide tech assistance to fleet managers to plan and produce medium and eavy electric vehicle fleets
+    - Transproration and Climate Initiative Program (TCI-P)
+        - will reduce transportation emissions by 26% and provide over $160 million annually to invest in clean transportation
+- Climate Adaptation
+    - municipal vulnerability preparedness (MVP) program
+        - 89 percent of communities enrolled
+        - $44 million awarded to date
+    - RMAT Climaate Resilience Design Standards Tool
+        - help assess climate change risk of planned projects
+        - provies recommenations to make the designs more resilient
+- Questions
+    - carbon sequestration: wasn’t previously been tracked on by various groups and legislative commissions
+    - going forward:
+        - create an inventory
+        - track carbon credits
+        - determine practices for sustainable mgmt
+    - technologies for carbon capture? not yet economically viable but federal investment is increasing, may be opportunities in the future
+    - incentives for individuals or companies to move to clean energy

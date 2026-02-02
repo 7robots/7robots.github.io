@@ -1,0 +1,202 @@
+---
+layout: default
+title: "CGA-Seminar-20-May-2022"
+parent: agora
+nav_order: 10
+---
+
+# CGA-Seminar-20-May-2022
+
+# CGA Seminar on the Uneven Geography of Climate Change 20 May 2022
+
+URL:[https://gis.harvard.edu/event/cga-virtual-forum-2022-uneven-geography-climate-change](https://gis.harvard.edu/event/cga-virtual-forum-2022-uneven-geography-climate-change)
+
+- Susan Cutter, Univ of S. Carolina
+    - Spatial Inequalities in Climate-Sensitive Hazard Impacts
+    - disaster risk has changed
+        - new understanding includes non-linear change, interdependencies, systems, etc.
+        - hazard, exposure, vunl, scale, systems
+    - new methods, tools, geospatial data, social media data, satellite imaging, etc.
+    - changes in disaster governance
+        - state, policies, social, private sector actors
+        - prepare, mitigate, respond, recover
+    - inequalities in disaster risk persist
+        - rich v poor
+        - gender
+        - technology
+        - age
+    - variability in event type and loss patterns
+        - most hazard events versus highest losses versus most fatalities
+            - counties and states all over the map on these axes
+    - post 1980 climate sensitive county $$ loss patterns
+        - especially acute in coastal counties
+    - county per capita lost
+        - greatest loss of life in central states and west
+            - flooding and fires
+        - per capita losses increasing overall since 1980
+    - assessing spaital impacts via relative losses
+        - ratio of property loss/county GDP
+    - assess differential impacts using social vulnerability
+        - social vuln index (SoVI) measures social disparities in disaster impacts, preparedness, response, recovery among places
+    - what gets measured, gets managed
+        - assess impact inequality using social vulnerability with maps
+    - Approah to reducing inequality in disaster
+        - SoVI coupled with FEMA erified loss counts tells the story of where resources are needed to support disaster relief
+        - this was tried in 2016 flooding in LA — good evidence-based support for this approach
+    - SC has a migitation program ($157M) with risk profiles using SoVI as one of the metrics
+    - National Risk Index
+        - SoVI
+        - BRIC (community reslience)
+        - Expected Annual Loss (SHELDUS database)
+    - climate disasters increases inquality and expand
+- Marshall Shepherd, Univ of Georga
+    - The Extreme Weather Climate Gap: risk and vulnerabilities
+    - 2021 saw multiple billion dollar weather and climate disasters
+    - working on a committee analysing effects of multiple compounding disasters of gulf area on marginalized, disadvantaged communitie
+    - these climate disaster impacts are here now, not future tense
+    - so what?
+        - air pollution, increasing allergens
+        - extreme heat
+        - severe weather
+        - env degradation
+        - degraded living conditions and social inqualities
+        - changes in vector ecology
+        - water and food supply impacts
+        - water quality impacts
+    - parts of world exceeding limits of habitability
+    - extremes are becoming more extreme and people feel them far more than “averages”
+    - the DNA of climate change is already in current weather patterns
+    - climate risk is expected to increase
+    - climate risk in the 2040’s
+        - skewed towards coasts, southwest, florida,
+    - extremely confident in decreasing cold and increasing heat
+    - weather-climate gap
+        - disproprit sensitity to extreme weather cliamte events and a delay in ability to bounce back
+        - heat islands in major metro areas
+            - black communities in particular tend to fall in these heat islands
+        - flooding on large paved areas also tend to focus on black communities
+        - communities of color, children, older adults, lower income communities are bulls-eye of impact
+- David Keith, Harvard
+    - What is known about the geography of solar geoengineering’s risks and benefits
+    - economy → emissions → concentrations → climate change → impacts
+    - 4 types of interventions
+        - decarbonization
+        - carbon removal
+        - solar engineering
+        - adaptation
+    - note: decarbonization only stops things getting worse, but doesn’t stop it
+        - carbon removal and solar engineering required to reverse impact
+    - options for geo-engineering
+        - space-based methods (big sun blocks in orbit)
+        - increase stratospheric aresosol
+        - decreasing amount of high altitute cirrus clouds
+        - increase reflectivity of marine clouds
+        - surface albedo enhancement
+    - past concerns about talking about geo-engineering because it gets polluters and policy-makers off the hook from change is decreasing quickly
+        - global forums, univ and federal research effort
+    - the physical geography of consequences of geo-engineering
+        - what does the science say?
+        - would depend on the choices we make
+    - geoengineering cannot replace emissions cuts but can supplement it
+    - 2019 model of decreasing half of global temp increase to pre-industrial levels
+        - across variables: surface air temp, max annual temp, precip - evap, max 5 day precip
+        - no significant increases in climate risk across any of 4 variables with geo-engineering outcome of temp decrease
+    - still lots of concerns about solar geoengineering
+        - physical risks
+            - unintended outcomes of intervention
+        - injustice
+            - does increase inquality
+        - conflict
+            - used as a weopon
+        - humantity and nature
+    - still lots of skepticism, but that’s changing
+    - poorer, more vulnerable countries more willing to consider geo-engineering interventions
+- Siqi Zheng, MIT
+    - Climate Change and Global Sentiment
+    - features of our research
+        - geotagged social media data
+        - natural language processing
+        - GIS econometric modeling
+    - sentiment score
+        - dictionary based approach
+        - machine learning approach to classify posts
+        - get clusters of negative and positive labels of posts
+    - COVID and global sentiment
+        - global evidence of expressed sentiment alterations during covid
+            - mood much worse
+                - 4 times more miserable than a monday
+        - other data results:
+            - countries with tighter culture have smaller sentiment shock
+            - countries with higher governance efficiency have faster sentiment recovery
+    - Climate Change and Global Sentiment
+        - mapping of average day time temperature to overall average sentiment score
+        - sentiment change as a percentage has a strong correlation with max temperature
+- Devika Kakkar, Harvard
+    - Unlocking Geospatial Big Data for Climate Change Research using High-Performance Computing
+    - projects
+        - climate change impact on psych well being
+        - climate change impact on physical well being
+    - Well-Being project
+        - enriching cliamte data with sentiment scores from Siqi’s climate/sentiment research
+        - Social Media Data Enrichment System (SMES)
+            - geotagged tweets
+            - sentiment (NLP)
+            - geography GPU database
+            - GIS-based econometric modeling
+        - 10 billtion tweets
+        - HPC
+        - real-time enrichment running on NERC
+        - open-source software based on SMES
+        - open access data infrastructure
+    - Physical Well Being
+        - raster big data image
+            - 900m resolution PRISM data
+            - 7 climate variables
+            - 48 states
+            - 100k rasters
+            - 8tb storage, 85mg each
+            - 20 years data
+        - RINX (Raster Info Extraction System)
+            - input climate rasters + address
+        - 10.3 million patients days of cacl
+        - extramatcion of 7 climate varaibles 20 years of data
+        - HPC
+        - easily replicable, scalable,
+        - in partnership with SPH and HMS
+- Pam Hatchfield, Held in Trust and MFA
+    - Climate Mapping for Cultural Heritage
+- Kelsey Mulcahy, Meta
+    - International Public Opinion on Climate Change
+    - Data for Good’s mission
+        - empower partners with privacy preserving data that strengthens communities and advances social issues
+    - fielded a global cimate change opinion survey in partnership with Yale
+        - goal: biuld a deeper understandiong of international public opinion
+        - 31 countries, survey on fB (feb to mar 2021)
+        - modules
+            - cliamte change lknowldge and bleieves
+            - worry abnd perceived risks
+            - policy preferencews
+            - energy and the ecoomy
+            - climate activism
+    - findings
+        - awareness of climate change
+            - majority in developed counties, lower in developing countries
+            - countires in Europe and Latin America more likely ot understand cliamte changes is caused by human activities
+        - worry and perceived risks
+            - on average, women typically said they were less knowledgeable but more worried
+            - in US, 3/4 said that theywere somewhat or very worried, versus half of men
+                - similar in Australia, Canada
+        - people less likely to perceive personal harm, but more likely to be aware of future harm
+Eleanor (Kellie) Stokes, Earth from Space Institute[https://blackmarble.gsfc.nasa.gov/](https://blackmarble.gsfc.nasa.gov/)
+- Tracking human responses to climate impacts with NASA’s Black Marble
+- Black Marble data (night time data visualization of the earth)
+- daily look of earth at night
+- focus on human settlements
+- helps understand how disasters impact power availability
+- Puerto Rico power outages after hurricane
+- what areas lost power
+- how long specific areas stayed without power
+- tracking conflict in Syrian civil war
+- Zaatari Refugee Camp in Jordan
+- Panel Discussion
+Harvard CGA

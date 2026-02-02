@@ -1,23 +1,34 @@
 ---
 layout: default
-title: Cloudberry Jam
+title: "Cloudberry-Jam"
 parent: hypomnemata
+nav_order: 14
 ---
-“Where did I come from?” you asked. “Where’s my father?”
 
-“You don’t have one,” I said. “I made you myself.”
+# Cloudberry-Jam
 
-“Everyone has a father.”
+---
 
-“Not everyone.”
+## Author: Karin Tidbeck
+Book: Jagannath
+Subject: Fiction
 
-“Why did you make me?” you said.
+# Cloudberry Jam
 
-“I made you so that I could love you,” I said.
+"Where did I come from?" you asked. "Where's my father?"
 
+"You don't have one," I said. "I made you myself."
 
-- from “Cloudberry Jam” by Karin Tidbeck (from the short story collection Jagannath)  📚 💬
+"Everyone has a father."
 
-![Karin Tidbeck pinterest.com](https://7robots.micro.blog/uploads/2024/cf3d3c418b.jpg "Karin Tidbeck pinterest.com")
+"Not everyone."
 
- 
+"Why did you make me?" you said.
+
+"I made you so that I could love you," I said.
+
+- from "Cloudberry Jam" by Karin Tidbeck (from the short story collection Jagannath) 📚 💬
+
+![cf3d3c418b.jpeg](/hypomnemata/Cloudberry-Jam.assets/cf3d3c418b.jpeg)
+
+Karin Tidbeck pinterest.com

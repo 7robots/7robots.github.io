@@ -1,8 +1,20 @@
 ---
 layout: default
-title: Love that dog
+title: "Love-that-dog"
 parent: hypomnemata
+nav_order: 46
 ---
+
+# Love-that-dog
+
+---
+
+## Author: Sharon Creech
+Book: Love that Dog
+Subject: Poetry
+
+# Love that dog
+
 Love that dog
 
 (Inspired by Walter Dean Myers)
@@ -20,10 +32,6 @@ love to call him
 
 📚 💬
 
-![Love that Dog book cover](https://7robots.micro.blog/uploads/2024/3743beb1d8.jpg "Love that Dog book cover")
+![3743beb1d8.jpeg](/hypomnemata/Love-that-dog.assets/3743beb1d8.jpeg)
 
-
-
-
-
-
+Love that Dog book cover

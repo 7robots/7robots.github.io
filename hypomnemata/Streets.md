@@ -1,8 +1,18 @@
 ---
 layout: default
-title: Streets
+title: "Streets"
 parent: hypomnemata
+nav_order: 66
 ---
+
+# Streets
+
+---
+
+## Author: Bruno Schulz
+Book: The Cinnamon Shops and Other Stories
+Subject: Fiction
+
 # Streets
 
 Deep inside the town there open up, so to speak, double streets, doppelgänger streets, mendacious and delusive streets.

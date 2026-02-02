@@ -1,0 +1,115 @@
+---
+layout: default
+title: "Environmentally-Friendly-Heating-Cooling"
+parent: agora
+nav_order: 13
+---
+
+# Environmentally-Friendly-Heating-Cooling
+
+# Environmentally Friendly Heating and Cooling 17 June 2021
+
+Bob Zogg — founding member of Heatsmart Alliance[Bobzogg@luxsci.net](mailto:Bobzogg@luxsci.net)
+
+- Accelerating Heat Pumps
+- HeatSmart Alliance:
+    - Mission: reduce greenhouse gas emissions by accelerating the adoption of energy-efficient heat pumps in MA homes and buildings
+    - Applications: home heating and cooling, water heating
+    - All volunteer organization
+    - 24 MA communities
+    - Approach: educate / coach / collaborate
+- New England Energy Use
+    - 56% trans
+    - Resi 30%
+    - Indu 13%
+    - Commercial 25%
+- Average home energy use
+    - Heating and cooling is 61%
+- Heat Pump IS ready for cold clients
+- Existing Central Ductwork
+    - Central heat pumps
+    - Ground Source (aka geothermal) Heat Pumps
+- No ductwork
+    - Ductless mini-split systems (single and multi-zone)
+- Water heating
+    - Heat pump water heaters
+    - Aka Hybrid Water Heaters
+- Emissions Reduction in metric tons of CO2 per 2000 sq ft home
+    - Ground source has the lowest emissions 1
+    - Air source heat pump 1.5
+    - Natural gas 3.5
+    - Propane 3.75
+    - Baseboard electric 4.5
+    - Fuel oil 5.2
+- Heat pump emissions go to practically zero if your electricity is renewable
+- MA Clean Energy Plan for 2030
+    - Goal: heat pumps across 1 million house holds (out of total of 2.7 million)
+- 4 challenges to large-scale residential conversion
+    - No sex appeal compared to solar, Tesla, or HVAC
+    - Which comes first? Air sealing/insulation versus heat pump
+    - Installers assume low cost over carbon savings
+        - May try to match existing system type
+        - May encourage you to retain fossil system
+        - May set swap-over from heat pump to backup cautiously high
+        - Heat pumps can heat well insulated/air-sealed MA homes w/out supplemental heat
+    - Natural gas is really cheap right now
+- 4 actions to accelerate heat pumps
+    - Installation
+        - Convert to heat pump when heating or cooling is aging (over 15 years old)
+            - Don’t wait until system fails and replacement becomes urgent
+        - Adding AC to a home that doesn’t have it yet
+            - Heat pumps do both heating and cooling
+        - Planning an addition, renovation, or new home
+    - Become a volunteer coach — help friends, neighbors
+        - Replacing heating/cooling is time-consuming and intimidating
+        - Coaching works
+        - You can become a coach at heatsmartalliance website
+    - Ban fossil fuels in new construction (home rule petition)
+        - Passed in concord, Lexington, Arlington, acton might do it
+    - Advocate for favorable policy
+        - MA
+            - DOER to set GHG goals for Mass Save by 7/15/2021
+                - More aggressive weatherization measures and eliminate incentives for fossil fuel
+            - Simplify incentive programs (too many agencies involved)
+            - Cap and trade heating fuel emissions
+        - Federal
+            - Restore 30% tax credit for ground source which sunsets by 2023
+                - Now at 26% in 2021
+- Peter’s testimonial on ductless mini-splits
+    - Installs were around $4k
+    - Floor mounted until by Halcyon Single Mini Split Systems
+    - Compact cassette mini-split for 2nd floor (ceiling based)
+    - The external unit should be a couple of feet off the ground
+    - Floor until 100% of heat down to 30 degrees
+    - Boiler kicks in below 30 (especially for far rooms)
+    - 2nd floor — very good heat even in sub-zero
+    - Downsides:
+        - Installers oversize and reduce efficiency
+        - 1 recommendation 1 head per room (100% coverage but kills efficiency)
+        - Multiple needed for large foot print, raising costs
+        - Raise units off ground to avoid getting buried in snow
+        - Not as simple as boilers
+        - Power outage = no heat if no backup
+    - Benefits
+        - Not setbacks! Now waking at 55f, constant temperature is more efficient
+        - 95% effective cooling at low price
+        - 100% heat on 2nd story outside of below zero temps
+        - Our house had baseboard electric heat and boiler installer recommended heat pump for 2nd floor instead of renovating radiators
+        - 1 day installation, very little demolition
+    - Costs
+        - Installs were about $4000 each in 2018
+        - Cooling bill estimated at $50 per months
+        - Difficult to discern heating cost but for reference we’ve used an average of 350 gallons oil annually since 2017 install
+        - Monthly energy costs $250 — heat, hot water, cooling, cooking, family of 4
+- Trevor’s testimonial
+    - Our first ground source — single 4 ton w/ electric backup in 2002 in Nova Scotia
+    - 2nd install (in Harvard) - 2 four ton ground source heat pumps
+        - 100% of heat from heat pumps for last 3.5 years (keeping house at 74 in winter, 76 in summer)
+        - Very quiet
+    - 6 foot deep trench that has 4 200’ bore holes that follow the driveway
+    - Water and ethanol circulates in loop (anti-freeze)
+    - Ground loop circulation pumps
+    - 2 pumps (load sharing or primary/backup?)
+    - From pumps, the heated water goes to an accumulator tank
+    - Main control unit with sensors for outdoor temperature and tank
+    - Pumps into in floor radiant heat

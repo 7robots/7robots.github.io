@@ -1,0 +1,122 @@
+---
+layout: default
+title: "Sustainable-Stow-Climate-14-Apr-2021"
+parent: agora
+nav_order: 35
+---
+
+# Sustainable-Stow-Climate-14-Apr-2021
+
+# Sustainable Stow Climate Change 14 Apr 2021
+
+- The way climate change is affecting wild life right now in our area
+- Joy Marzoff — the Joy of Nature
+    - Www.thejoysofnature.com
+    - MA is leading the way
+- Climate Change
+    - Long term change, different than weather
+    - 2020 was the warmest year on record
+    - 2016 second highest
+    - 2019 third highest
+    - 10 of the last 10 years, have been the hottest on record and 19 of the last 20
+    - 130 degrees in Death Valley this year!
+- Climate Science in 4 pictures
+    - Heat-trapping blanket
+    - Regular versus rampant carbon dioxide
+    - Oceans = climate’s heart
+    - Osteoporosis of the sea
+- Sightline Institute as a good source
+- Blanket of greenhouse gases
+    - Carbon dioxide, methane, CFC’s, etc
+- Future conditions depend on our actions today
+    - Today’s choices
+        - File sources for power, transportation, and industry
+        - Land development
+    - Emission scenarios
+    - Future impacts
+        - More hot days
+        - Increased extreme precipitation
+        - Greater amounts of sea level rise
+- Methane leakage from natural gas operations (stats from Environmental Defense Fund and PNAS)
+    - 59% natural gas production
+    - 8% processing
+    - 20% transmission and storage
+    - 13% local distribution
+    - Methane hot spots
+- US 2020 Billion Dollar Weather and Climate Disasters
+    - How many billion dollar weather events per year? Getting higher each year
+    - Wind, flooding, fires, cyclones, hurricanes, tornadoes
+    - Last 5 years: total cost in US $600B
+    - 5 year annual cost average $121B
+    - Last 10 years: $890B (135 events)
+    - Last 15 year: 1.04T (173 events)
+    - $80B in wildfires in 2020. 3.2 million acres were burned.
+- Extreme weather in MA
+    - 20 tornadoes in 2019 in CT!
+    - Nearly 2 dozen in 2018
+    - Other trends:
+        - Too much or not enough water
+        - More hot days in summer / more dry days
+        - Warmer winters (change in snowfall vs rainfall
+        - Later / wetter spring
+        - Nor’easters increasing in frequency?
+- The fires exploding in Oregon and Washington were unprecedent. Not typical for ares of the NW w/ temperate rain forests
+    - Smoke even made it to MA!
+- Droughts around the world: Australia and S. Africa
+    - Last 2 years were hottest on record
+    - The dam cracked due to fires. They ran out of water!
+- MA
+    - Parts of MA already in drought!
+    - As recently as Apr 6 — abnormally dry (this is normally a wet month)
+    - 2021 was 4th driest first half of March on record (1915 was #1)
+    - Dried up vernal pools seem to be decreasing amphibian and good insect populations
+    - Warmer winters — affecting our trees
+        - Life w/out maple syrup!
+- Warmer weather is shifting composition of our forests
+    - Current: spruce/fir, maple, beech, birch
+    - Over time, northern hardwoods will lose advantage
+        - More oak, hickory, beech
+    - more poison ivy! (More plants, longer growing season, stronger chemicals due to more carbon dioxide)
+    - Screws up hibernation
+- Changing seasons around the world
+    - Netherlands — change in caterpillar hatching times affects migratory birds
+    - 0ver 14M acres of spruce killed by bark beetles
+    - Pine beetles impacting trees in US
+- changing climate affect wild life
+    - Shifting precipitation, total amounts, intensify
+        - All causes changes in forest quality, understory, insect numbers, and fire patterns
+- Birds and insect hatching getting out of sync
+- Migration schedules getting messed up
+- Great book: Walden Warming
+- Growing season is longer, but so is ragweed
+- Forsythia leaf-out is earlier this year
+- More fungus diseases on animals and plants around us
+- Sea Level Rise
+    - Warming causes land and sea ice to melt and sea water to expand
+    - Sea levels rising
+- annual temperatures in Alaska getting warming
+- Sea level in boston expected to rise by 7 inches to 1 foot 6 by 2050
+- Most of MIT might be under water!
+- Oceans = climate’s heart
+    - World’s ocean circulate heat and moisture
+    - Marine wild life impact
+    - Coral bleaching
+    - Ocean acidification
+    - Local marine life — lobsters getting disease and/or moving away
+    - Reduced calcium buildup for shells, clams, oysters
+    - More carbon and more fresh water dumping into ocean increases acidification
+    - Food chain disruption
+- What can we do?
+    - Pluggable hybrid cars
+    - Solar panels
+    - Energy efficient heat pump systems
+    - Rain barrels (for watering the yard!)
+    - Efficient shower heads
+    - Eat less meat, more veggies
+    - Eat local when possible
+    - Waste less food - nearly 1/3 of all food in US is wasted, single biggest component of land fills
+    - compost!!!
+    - Reduce your use of plastics made from fossil fuels (reusable cloth bags)
+    - Loe.org article on Carbon fridges that produce HFC’s
+    - Join local land trusts
+    - Local community efforts like Sustainable Stow

@@ -1,10 +1,24 @@
 ---
 layout: default
-title: Slant
+title: "slant"
 parent: hypomnemata
+nav_order: 115
 ---
+
+# slant
+
+---
+
+## Author: Emily Dickinson
+Book: Tell all the truth, but tell it slant
+Subject: Poetry
+
+# slant
+
 Tell all the truth, but tell it slant.
 
-Emily Dickinson  📚 💬
+Emily Dickinson 📚 💬
 
-![Emily Dickinson wikipedia](https://7robots.micro.blog/uploads/2024/b163a967b2.jpg "Emily Dickinson wikipedia")
+![b163a967b2.png](/hypomnemata/slant.assets/b163a967b2.png)
+
+Emily Dickinson wikipedia

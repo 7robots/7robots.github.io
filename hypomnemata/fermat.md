@@ -1,8 +1,20 @@
 ---
 layout: default
-title: Fermat
+title: "Fermat"
 parent: hypomnemata
+nav_order: 20
 ---
+
+# Fermat
+
+---
+
+## Author: Ted Chiang
+Book: Story of Your Life
+Subject: Fiction
+
+# Fermat
+
 So I pay close attention, and note every detail.
 
 From the beginning I knew my destination, and I chose my route accordingly. But am I working toward an extreme of joy, or of pain? Will I achieve a minimum, or a maximum?
@@ -11,6 +23,6 @@ These questions are in my mind when your father asks me, “Do you want to make 
 
 excerpt from “Story of Your Life” by Ted Chiang 📚 💬
 
-![pinterest image of movie Arrival](https://7robots.micro.blog/uploads/2024/cd0de17464.jpg "Arrival")
+![cd0de17464.jpeg](/hypomnemata/Fermat.assets/cd0de17464.jpeg)
 
-
+pinterest image of movie Arrival
