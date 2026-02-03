@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 41
 ---
-
-# Kipple
-
----
-
 ## Author: Philip K. Dick
 Book: Do Androids Dream of Electric Sheep?
 Subject: Fiction

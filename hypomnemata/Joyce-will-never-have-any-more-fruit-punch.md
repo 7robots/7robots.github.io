@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 40
 ---
-
-# Joyce-will-never-have-any-more-fruit-punch
-
----
-
 ## Author: “Anya”
 Book: Buffy the Vampire Slayer
 Subject: TV show

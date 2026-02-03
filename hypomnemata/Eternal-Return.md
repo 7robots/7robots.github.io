@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 19
 ---
-
-# Eternal-Return
-
----
-
 ## Author: Friedrich Nietzsche
 Book: The Gay Science
 Subject: Philosophy

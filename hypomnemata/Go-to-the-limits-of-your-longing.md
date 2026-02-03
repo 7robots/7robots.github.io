@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 27
 ---
-
-# Go-to-the-limits-of-your-longing
-
----
-
 ## Author: Rainer Maria Rilke
 Subject: Poetry
 

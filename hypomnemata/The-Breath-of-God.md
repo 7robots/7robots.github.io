@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 74
 ---
-
-# The-Breath-of-God
-
----
-
 ## Author: Cormac McCarthy
 Book: The Road
 Subject: Fiction

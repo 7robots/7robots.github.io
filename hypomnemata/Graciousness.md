@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 28
 ---
-
-# Graciousness
-
----
-
 ## Author: Mr Rogers by way of Tom Junod
 Book: My Friend Mr Rogers
 Subject: Biography

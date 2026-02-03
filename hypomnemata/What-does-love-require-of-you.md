@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 104
 ---
-
-# What-does-love-require-of-you
-
----
-
 ## Author: Geoffrey Durham
 Book: Being a Quaker
 Subject: Religion

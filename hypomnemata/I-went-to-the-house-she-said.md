@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 34
 ---
-
-# I-went-to-the-house-she-said
-
----
-
 ## Author: Cory Doctorow
 Book: Someone Comes to Town, Someone Leaves Town
 Subject: Fiction

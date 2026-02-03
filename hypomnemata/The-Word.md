@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 82
 ---
-
-# The-Word
-
----
-
 ## Author: John
 Book: John 1:1-5
 Subject: Religion

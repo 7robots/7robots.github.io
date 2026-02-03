@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 85
 ---
-
-# The-summit-of-Mt-Everest-is-marine-limestone
-
----
-
 ## Author: John McFee
 Book: Annals of the Former World
 Subject: Nature

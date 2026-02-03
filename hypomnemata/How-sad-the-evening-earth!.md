@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 32
 ---
-
-# How-sad-the-evening-earth!
-
----
-
 ## Author: Mihail Bulgakov
 Book: The Master and Margarita
 Subject: Fiction

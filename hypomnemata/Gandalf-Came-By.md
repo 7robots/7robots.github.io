@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 24
 ---
-
-# Gandalf-Came-By
-
----
-
 ## Author: J.R.R. Tolkien
 Book: The Hobbit
 Subject: Fiction

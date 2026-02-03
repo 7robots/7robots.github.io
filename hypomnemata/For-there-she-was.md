@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 22
 ---
-
-# For-there-she-was
-
----
-
 ## Author: Virginia Woolf
 Book: Mrs Dalloway
 Subject: Fiction

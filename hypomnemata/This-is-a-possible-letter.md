@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 90
 ---
-
-# This-is-a-possible-letter
-
----
-
 ## Author: China Mieville
 Book: The Scar
 Subject: Fiction
@@ -27,8 +22,6 @@ I have not been the best friend to you, and I need you to forgive me that. I thi
 And if I want this letter to be a remembrance, to be something with which to say goodbye instead of hello again, then you will be Carrianne. You are my dear friend, if that is so, and the fact that I did not know you when I started to write you this letter means nothing. This is a Possible Letter, after all.
 
 Whoever you are, I have not been the best friend to you, and I am sorry.
-
-- excerpt from China Mieville. “The Scar”. 📚 💬
 
 ![aa690bd690.jpeg](/hypomnemata/This-is-a-possible-letter.assets/aa690bd690.jpeg)
 

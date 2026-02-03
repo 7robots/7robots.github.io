@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 21
 ---
-
-# First-ldeal
-
----
-
 ## Author: Brandon Sanderson
 Book: Way of Kings
 Subject: Fiction

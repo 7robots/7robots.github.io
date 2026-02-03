@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 107
 ---
-
-# Where-are-we-going-next
-
----
-
 ## Author: Jedediah Berry
 Book: The Manual of Detection
 Subject: Fiction

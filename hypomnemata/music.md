@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 114
 ---
-
-# music
-
----
-
 ## Author: David Mitchell
 Book: blackswangreen
 Subject: Fiction
@@ -28,8 +23,6 @@ The piano’d vanished. Now a flute’d joined the violin.
 
 - blackswangreen by david mitchell
 - a reference to the Cloud Atlas Sextet by Robert Frobisher in Mitchell’s other book, Cloud Atlas
-
-📚 💬
 
 ![9780812974010_p0_v1_s1200x630.jpeg](/hypomnemata/music.assets/9780812974010_p0_v1_s1200x630.jpeg)
 

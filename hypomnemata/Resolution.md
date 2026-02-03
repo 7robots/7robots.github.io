@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 57
 ---
-
-# Resolution
-
----
-
 ## Author: Peter Hoeg
 Book: Smilla’s Sense of Snow
 Subject: Fiction

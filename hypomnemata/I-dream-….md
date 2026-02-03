@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 33
 ---
-
-# I-dream-…
-
----
-
 ## Author: David Mitchell
 Book: Number Nine Dream
 Subject: Fiction

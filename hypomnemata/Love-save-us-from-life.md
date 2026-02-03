@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 45
 ---
-
-# Love-save-us-from-life
-
----
-
 ## Author: Pablo Neruda
 Subject: Poetry
 

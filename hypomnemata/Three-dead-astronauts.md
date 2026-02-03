@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 94
 ---
-
-# Three-dead-astronauts
-
----
-
 ## Author: Jeff Vandermeer
 Book: Borne
 Subject: Fiction

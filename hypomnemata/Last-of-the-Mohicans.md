@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 42
 ---
-
-# Last-of-the-Mohicans
-
----
-
 ## Author: James Fenimore Cooper
 Book: Last of the Mohicans
 Subject: Fiction

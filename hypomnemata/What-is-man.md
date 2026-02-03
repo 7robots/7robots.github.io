@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 105
 ---
-
-# What-is-man
-
----
-
 ## Author: Clifford D Simak
 Book: City
 Subject: Fiction

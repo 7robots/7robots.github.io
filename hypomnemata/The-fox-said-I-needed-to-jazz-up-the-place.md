@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 83
 ---
-
-# The-fox-said-I-needed-to-jazz-up-the-place
-
----
-
 ## Author: Jeff Vandermeer
 Book: Borne
 Subject: Fiction

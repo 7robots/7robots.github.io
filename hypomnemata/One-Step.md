@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 53
 ---
-
-# One-Step
-
----
-
 ## Author: John Crowley
 Book: Little, Big
 Subject: Fiction

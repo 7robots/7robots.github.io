@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 2
 ---
-
-# Advocate
-
----
-
 ## Author: Timothy, Archbishop of Alexandria
 Book: Discourse on Abbatôn
 Subject: Religion

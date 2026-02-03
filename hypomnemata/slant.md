@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 115
 ---
-
-# slant
-
----
-
 ## Author: Emily Dickinson
 Book: Tell all the truth, but tell it slant
 Subject: Poetry

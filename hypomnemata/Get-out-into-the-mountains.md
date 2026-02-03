@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 25
 ---
-
-# Get-out-into-the-mountains
-
----
-
 ## Author: John Muir
 Subject: Nature
 

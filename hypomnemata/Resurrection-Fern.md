@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 58
 ---
-
-# Resurrection-Fern
-
----
-
 ## Author: Iron and Wine
 Book: Resurrection Fern
 Subject: Song

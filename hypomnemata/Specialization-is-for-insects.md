@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 63
 ---
-
-# Specialization-is-for-insects
-
----
-
 ## Author: Robert Heinlein
 Book: Time enough for love
 Subject: Fiction

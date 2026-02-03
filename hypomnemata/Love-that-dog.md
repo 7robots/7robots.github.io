@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 46
 ---
-
-# Love-that-dog
-
----
-
 ## Author: Sharon Creech
 Book: Love that Dog
 Subject: Poetry
@@ -30,8 +25,6 @@ love to call him
 “Hey there, sky!”
 
 - from Love that Dog by Sharon Creech
-
-📚 💬
 
 ![3743beb1d8.jpeg](/hypomnemata/Love-that-dog.assets/3743beb1d8.jpeg)
 

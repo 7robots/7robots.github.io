@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 65
 ---
-
-# Story-of-Your-Life
-
----
-
 ## Author: Ted Chiang
 Book: Story of Your Life
 Subject: Fiction

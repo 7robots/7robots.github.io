@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 60
 ---
-
-# Slowness
-
----
-
 ## Author: Milan Kundera
 Book: Slowness
 Subject: Fiction

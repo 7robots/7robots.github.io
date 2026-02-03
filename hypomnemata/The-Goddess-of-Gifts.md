@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 77
 ---
-
-# The-Goddess-of-Gifts
-
----
-
 ## Author: Gregory Maguire
 Book: Wicked
 Subject: Fiction

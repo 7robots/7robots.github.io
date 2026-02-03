@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 112
 ---
-
-# You-have-never-spoken-before
-
----
-
 ## Author: China Mieville
 Book: Embassytown
 Subject: Fiction
@@ -25,7 +20,6 @@ We speak now or I do, and others do. You’ve never spoken before. You will. You
 You have never spoken before.
 
 from Embassytown by China Mieville
-📚 💬
 
 [EmbassyTown book cover on CSMonitor](https://images.csmonitor.com/csmarchives/2011/05/93692487.JPG%2520%E2%80%9CEmbassyTown%2520book%2520cover)
 

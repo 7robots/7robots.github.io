@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 48
 ---
-
-# Maps-and-mazes
-
----
-
 ## Author: Cormac McCarthy
 Book: The Road
 Subject: Fiction

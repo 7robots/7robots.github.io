@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 68
 ---
-
-# Tefilla-Prayer
-
----
-
 ## Author: David Grossman
 Book: "See Under: Love"
 Subject: Fiction

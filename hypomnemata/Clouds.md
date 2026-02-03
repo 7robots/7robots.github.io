@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 15
 ---
-
-# Clouds
-
----
-
 ## Author: David Mitchell
 Book: Cloud Atlas
 Subject: Fiction

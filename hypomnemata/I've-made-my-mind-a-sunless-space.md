@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 38
 ---
-
-# I’ve-made-my-mind-a-sunless-space
-
----
-
 ## Author: “Luthen Rael”
 Book: Andor Season 1
 Subject: TV

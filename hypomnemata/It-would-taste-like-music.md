@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 37
 ---
-
-# It-would-taste-like-music
-
----
-
 ## Author: Cormac McCarthy
 Book: Stella Maris
 Subject: Fiction

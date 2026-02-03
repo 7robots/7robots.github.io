@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 79
 ---
-
-# The-Stolen-Child
-
----
-
 ## Author: W.B. Yeats
 Subject: Poetry
 

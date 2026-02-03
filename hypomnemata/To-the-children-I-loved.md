@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 95
 ---
-
-# To-the-children-I-loved
-
----
-
 ## Author: Jeff Vandermeer
 Book: Dead Astronauts
 Subject: Fiction

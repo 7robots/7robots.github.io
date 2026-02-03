@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 49
 ---
-
-# May-you-find-a-love
-
----
-
 ## Author: Ta-Nehisi Coates
 Book: The Water Dancer
 Subject: Fiction

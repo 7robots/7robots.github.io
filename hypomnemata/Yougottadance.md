@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 113
 ---
-
-# Yougottadance
-
----
-
 ## Author: Haruki Murakami
 Book: Dance, Dance, Dance
 Subject: Fiction

@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 56
 ---
-
-# Raconte-Moi
-
----
-
 ## Author: M83
 Book: Raconte Moi
 Subject: Song

@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 44
 ---
-
-# Leviathan
-
----
-
 ## Author: Unknown
 Book: Job 41:1-8
 Subject: Religion

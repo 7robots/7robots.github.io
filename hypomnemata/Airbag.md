@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 3
 ---
-
-# Airbag
-
----
-
 ## Author: Radiohead
 Book: OK Computer album
 Subject: Song

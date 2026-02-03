@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 66
 ---
-
-# Streets
-
----
-
 ## Author: Bruno Schulz
 Book: The Cinnamon Shops and Other Stories
 Subject: Fiction

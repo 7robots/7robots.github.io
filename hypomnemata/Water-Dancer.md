@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 98
 ---
-
-# Water-Dancer
-
----
-
 ## Author: Ta-Nehisi Coates
 Book: The Water Dancer
 Subject: Fiction

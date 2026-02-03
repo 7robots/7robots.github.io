@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 47
 ---
-
-# MLK
-
----
-
 ## Author: Martin Luther King
 Subject: Quote
 

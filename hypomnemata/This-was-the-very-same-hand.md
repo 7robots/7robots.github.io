@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 93
 ---
-
-# This-was-the-very-same-hand
-
----
-
 ## Author: Haruki Murakami
 Book: 1Q84
 Subject: Fiction

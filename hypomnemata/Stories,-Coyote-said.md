@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 64
 ---
-
-# Stories,-Coyote-said
-
----
-
 ## Author: John Crowley
 Book: "Ka: Dar Oakley in the Ruin of Ymir"
 Subject: Fiction

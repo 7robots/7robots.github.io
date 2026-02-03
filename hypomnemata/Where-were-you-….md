@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 108
 ---
-
-# Where-were-you-…
-
----
-
 ## Author: Unknown
 Book: Job 38:4,7
 Subject: Religion

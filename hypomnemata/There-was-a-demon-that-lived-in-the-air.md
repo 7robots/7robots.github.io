@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 87
 ---
-
-# There-was-a-demon-that-lived-in-the-air
-
----
-
 ## Author: Tom Wolfe
 Book: The Right Stuff
 Subject: Fiction

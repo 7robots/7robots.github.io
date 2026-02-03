@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 11
 ---
-
-# Be-taught-now-among-the-trees-and-rocks
-
----
-
 ## Author: David Whyte
 Book: Coleman's Bed
 Subject: Poetry

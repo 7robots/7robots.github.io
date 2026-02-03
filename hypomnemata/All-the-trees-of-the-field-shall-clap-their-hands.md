@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 5
 ---
-
-# All-the-trees-of-the-field-shall-clap-their-hands
-
----
-
 ## Author: Isaiah
 Book: Isaiah 55:12
 Subject: Religion

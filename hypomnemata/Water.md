@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 99
 ---
-
-# Water
-
----
-
 ## Author: Kazuo Ishiguro
 Book: Never Let Me Go
 Subject: Fiction

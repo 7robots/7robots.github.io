@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 16
 ---
-
-# Contemplate-the-marvel-that-is-existence
-
----
-
 ## Author: Ted Chiang
 Book: Exhalation
 Subject: Fiction

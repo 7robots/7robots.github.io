@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 13
 ---
-
-# Beasts
-
----
-
 ## Author: John Crowley
 Book: Otherwise
 Subject: Fiction

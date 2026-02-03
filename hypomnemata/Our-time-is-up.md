@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 55
 ---
-
-# Our-time-is-up
-
----
-
 ## Author: Cormac McCarthy
 Book: Stella Maris
 Subject: Fiction

@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 54
 ---
-
-# Orlando
-
----
-
 ## Author: Virginia Woolf
 Book: Orlando
 Subject: Fiction

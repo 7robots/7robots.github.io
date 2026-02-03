@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 103
 ---
-
-# What-are-cats-thinking
-
----
-
 ## Author: Tom Tomorrow
 Book: This Modern World
 Subject: Comic

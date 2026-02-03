@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 39
 ---
-
-# John-Lewis
-
----
-
 ## Author: John Lewis
 Book: NYTimes 30 July 2020
 Subject: Op-Ed

@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 4
 ---
-
-# All-creatures-of-our-God-and-King
-
----
-
 ## Author: St. Francis of Assisi
 Book: Hymn
 Subject: Religion

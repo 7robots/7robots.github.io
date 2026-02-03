@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 81
 ---
-
-# The-Stranger
-
----
-
 ## Author: Albert Camus
 Book: The Stranger
 Subject: Fiction

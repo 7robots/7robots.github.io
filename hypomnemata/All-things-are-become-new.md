@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 6
 ---
-
-# All-things-are-become-new
-
----
-
 ## Author: Paul
 Book: 2nd Corinithians 5:17
 Subject: Religion

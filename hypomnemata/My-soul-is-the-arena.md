@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 50
 ---
-
-# My-soul-is-the-arena
-
----
-
 ## Author: Niko Kazantzakis
 Book: The Last Temptation of Christ
 Subject: Fiction

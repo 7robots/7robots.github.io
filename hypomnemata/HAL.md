@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 29
 ---
-
-# HAL
-
----
-
 ## Author: Arthur C Clarke
 Book: 2001 A Space Odyssey
 Subject: Fiction

@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 89
 ---
-
-# This-great-exhalation
-
----
-
 ## Author: Ted Chiang
 Book: Exhalation
 Subject: Fiction

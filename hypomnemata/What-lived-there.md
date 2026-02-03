@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 106
 ---
-
-# What-lived-there
-
----
-
 ## Author: Jeff Vandermeer
 Book: Dead Astronauts
 Subject: Fiction

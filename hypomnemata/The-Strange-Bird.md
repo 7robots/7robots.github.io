@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 80
 ---
-
-# The-Strange-Bird
-
----
-
 ## Author: Jeff Vandermeer
 Book: The Strange Bird
 Subject: Fiction

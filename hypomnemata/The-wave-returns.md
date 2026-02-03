@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 86
 ---
-
-# The-wave-returns
-
----
-
 ## Author: “Chidi”
 Book: The Good Place
 Subject: TV show

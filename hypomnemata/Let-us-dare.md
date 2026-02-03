@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 43
 ---
-
-# Let-us-dare
-
----
-
 ## Author: John Adams by way of David McCullough
 Book: John Adams
 Subject: Biography

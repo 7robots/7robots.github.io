@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 23
 ---
-
-# From-Railsea
-
----
-
 ## Author: China Mieville
 Book: Railsea
 Subject: Fiction

@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 110
 ---
-
-# Yggdrasil
-
----
-
 ## Author: A.S. Byatt
 Book: Ragnarok
 Subject: Fiction

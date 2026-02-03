@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 52
 ---
-
-# Never-to-let-her-go
-
----
-
 ## Author: Kazuo Ishiguro
 Book: Never Let Me Go
 Subject: Fiction

@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 31
 ---
-
-# How-do-you-aim-a-volcano
-
----
-
 ## Author: Sigurdur Ingi Johannsson by way of Egill Bjarnason
 Book: How Iceland Changed the World
 Subject: History

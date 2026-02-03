@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 92
 ---
-
-# This-trench-of-sleep
-
----
-
 ## Author: China Mieville
 Book: Kraken
 Subject: Fiction
@@ -33,8 +28,6 @@ One last thing, that might have announced itself as such, the finality was so un
 Under the tank was something utter and dark and moving, something so slowly rising, and endless.
 
 from China Mieville, Kraken
-
-📚 💬
 
 ![kraken-by-china-mieville.jpeg](/hypomnemata/This-trench-of-sleep.assets/kraken-by-china-mieville.jpeg)
 

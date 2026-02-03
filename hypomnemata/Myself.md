@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 51
 ---
-
-# Myself
-
----
-
 ## Author: C.S. Lewis
 Book: The Horse and His Boy
 Subject: Children’s Fiction

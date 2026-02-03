@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 100
 ---
-
-# We-lived-in-joy
-
----
-
 ## Author: Jeff Vandermeer
 Book: Dead Astronauts
 Subject: Fiction

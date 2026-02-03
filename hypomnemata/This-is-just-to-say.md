@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 91
 ---
-
-# This-is-just-to-say
-
----
-
 ## Author: Sharon Creech
 Book: Hate that Cat
 Subject: Children’s Poetry
@@ -73,8 +68,6 @@ them
 too.
 
 From Hate that Cat by Sharon Creech
-
-📚 💬
 
 ![9780061430947_p0_v1_s550x406.jpeg](/hypomnemata/This-is-just-to-say.assets/9780061430947_p0_v1_s550x406.jpeg)
 

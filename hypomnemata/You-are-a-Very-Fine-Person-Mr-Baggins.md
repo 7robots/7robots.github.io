@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 111
 ---
-
-# You-are-a-Very-Fine-Person-Mr-Baggins
-
----
-
 ## Author: J.R.R. Tolkien
 Book: The Hobbit
 Subject: Fiction

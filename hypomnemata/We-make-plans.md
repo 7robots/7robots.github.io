@@ -5,11 +5,6 @@ parent: hypomnemata
 nav_exclude: true
 nav_order: 101
 ---
-
-# We-make-plans
-
----
-
 ## Author: China Mieville
 Book: Perdido Street Station
 Subject: Fiction
