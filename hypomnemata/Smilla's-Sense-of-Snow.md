@@ -22,6 +22,6 @@ Maybe it’s wrong when we remember breakthroughs to our own being as something 
 
 📚 💬
 
-![MV5BMTQ5NzM4MDUxN15BMl5BanBnXkFtZTYwNjUzNTU3._V1_FMjpg_UX1000_.jpeg](/hypomnemata/Smilla%E2%80%99s-Sense-of-Snow.assets/MV5BMTQ5NzM4MDUxN15BMl5BanBnXkFtZTYwNjUzNTU3._V1_FMjpg_UX1000_.jpeg)
+![MV5BMTQ5NzM4MDUxN15BMl5BanBnXkFtZTYwNjUzNTU3._V1_FMjpg_UX1000_.jpeg](/hypomnemata/Smilla's-Sense-of-Snow.assets/MV5BMTQ5NzM4MDUxN15BMl5BanBnXkFtZTYwNjUzNTU3._V1_FMjpg_UX1000_.jpeg)
 
 IMDB photo from Smilla’s Sense of Snow

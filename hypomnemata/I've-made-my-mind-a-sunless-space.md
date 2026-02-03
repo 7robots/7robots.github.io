@@ -28,7 +28,7 @@ What is… what is my sacrifice? I’m condemned to use the tools of my enemy to
 
 Everything! 💬
 
-![7c5b2f7a95.jpeg](/hypomnemata/I%E2%80%99ve-made-my-mind-a-sunless-space.assets/7c5b2f7a95.jpeg)
+![7c5b2f7a95.jpeg](/hypomnemata/I've-made-my-mind-a-sunless-space.assets/7c5b2f7a95.jpeg)
 
 Luthen Rael
 
