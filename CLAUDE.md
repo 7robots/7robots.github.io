@@ -58,9 +58,9 @@ nav_order: N
 - **Check for issues**: Compare `git ls-files` output with `ls` output
 
 ### Markdown Tables vs Lists
-- Links in markdown tables had inconsistent behavior
-- Lists (like agora section) worked reliably
-- hypomnemata uses grouped lists by subject (Fiction, Poetry, Religion, etc.)
+- Tables work fine once case sensitivity issues are resolved
+- hypomnemata uses a table format sorted by book title
+- agora uses lists grouped by topic
 
 ### File Naming
 - Use hyphens instead of spaces in filenames
