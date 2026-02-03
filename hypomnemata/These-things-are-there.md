@@ -2,6 +2,7 @@
 layout: default
 title: "These-things-are-there"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 88
 ---
 

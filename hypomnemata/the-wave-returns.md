@@ -2,6 +2,7 @@
 layout: default
 title: "The-wave-returns"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 86
 ---
 

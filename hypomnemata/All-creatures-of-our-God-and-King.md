@@ -2,6 +2,7 @@
 layout: default
 title: "All-creatures-of-our-God-and-King"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 4
 ---
 

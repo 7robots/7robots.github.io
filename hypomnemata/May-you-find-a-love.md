@@ -2,6 +2,7 @@
 layout: default
 title: "May-you-find-a-love"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 49
 ---
 

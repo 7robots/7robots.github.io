@@ -2,6 +2,7 @@
 layout: default
 title: "This-was-the-very-same-hand"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 93
 ---
 

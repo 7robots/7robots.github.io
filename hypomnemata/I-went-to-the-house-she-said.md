@@ -2,6 +2,7 @@
 layout: default
 title: "I-went-to-the-house-she-said"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 34
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Someone-else’s-house"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 62
 ---
 

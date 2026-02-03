@@ -2,6 +2,7 @@
 layout: default
 title: "Love-save-us-from-life"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 45
 ---
 

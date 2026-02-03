@@ -2,6 +2,7 @@
 layout: default
 title: "Amatka"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 7
 ---
 

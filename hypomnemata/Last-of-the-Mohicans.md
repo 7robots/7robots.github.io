@@ -2,6 +2,7 @@
 layout: default
 title: "Last-of-the-Mohicans"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 42
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Specialization-is-for-insects"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 63
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "And so they lived many happy years"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 8
 ---
 

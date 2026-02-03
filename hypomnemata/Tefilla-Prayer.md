@@ -2,6 +2,7 @@
 layout: default
 title: "Tefilla-Prayer"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 68
 ---
 

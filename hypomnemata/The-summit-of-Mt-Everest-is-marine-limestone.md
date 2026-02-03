@@ -2,6 +2,7 @@
 layout: default
 title: "The-summit-of-Mt-Everest-is-marine-limestone"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 85
 ---
 

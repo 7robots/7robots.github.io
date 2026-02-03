@@ -2,6 +2,7 @@
 layout: default
 title: "Orlando"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 54
 ---
 

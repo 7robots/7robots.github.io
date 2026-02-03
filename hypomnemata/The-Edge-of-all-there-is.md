@@ -2,6 +2,7 @@
 layout: default
 title: "The-Edge-of-all-there-is"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 76
 ---
 

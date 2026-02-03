@@ -2,6 +2,7 @@
 layout: default
 title: "Sunlight"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 67
 ---
 

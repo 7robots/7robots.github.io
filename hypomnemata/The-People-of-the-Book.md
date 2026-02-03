@@ -2,6 +2,7 @@
 layout: default
 title: "The-People-of-the-Book"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 78
 ---
 

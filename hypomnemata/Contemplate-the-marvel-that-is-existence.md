@@ -2,6 +2,7 @@
 layout: default
 title: "Contemplate-the-marvel-that-is-existence"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 16
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Go-to-the-limits-of-your-longing"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 27
 ---
 

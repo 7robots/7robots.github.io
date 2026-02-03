@@ -2,6 +2,7 @@
 layout: default
 title: "Two-moons"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 96
 ---
 

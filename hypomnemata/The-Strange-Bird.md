@@ -2,6 +2,7 @@
 layout: default
 title: "The-Strange-Bird"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 80
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "All-things-are-become-new"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 6
 ---
 

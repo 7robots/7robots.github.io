@@ -2,6 +2,7 @@
 layout: default
 title: "To-the-children-I-loved"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 95
 ---
 

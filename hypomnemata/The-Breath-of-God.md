@@ -2,6 +2,7 @@
 layout: default
 title: "The-Breath-of-God"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 74
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "This-is-a-possible-letter"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 90
 ---
 

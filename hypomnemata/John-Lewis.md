@@ -2,6 +2,7 @@
 layout: default
 title: "John-Lewis"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 39
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "The-Best-Moments-in-Reading"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 73
 ---
 

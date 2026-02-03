@@ -2,6 +2,7 @@
 layout: default
 title: "Beasts"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 13
 ---
 

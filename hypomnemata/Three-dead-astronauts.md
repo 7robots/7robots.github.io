@@ -2,6 +2,7 @@
 layout: default
 title: "Three-dead-astronauts"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 94
 ---
 

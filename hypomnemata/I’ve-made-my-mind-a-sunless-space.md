@@ -2,6 +2,7 @@
 layout: default
 title: "I’ve-made-my-mind-a-sunless-space"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 38
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "The-smell-of-the-aftermath"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 84
 ---
 

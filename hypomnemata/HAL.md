@@ -2,6 +2,7 @@
 layout: default
 title: "HAL"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 29
 ---
 

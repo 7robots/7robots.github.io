@@ -2,6 +2,7 @@
 layout: default
 title: "Cloudberry-Jam"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 14
 ---
 

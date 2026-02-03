@@ -2,6 +2,7 @@
 layout: default
 title: "Our-time-is-up"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 55
 ---
 

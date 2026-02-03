@@ -2,6 +2,7 @@
 layout: default
 title: "Gandalf-Came-By"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 24
 ---
 

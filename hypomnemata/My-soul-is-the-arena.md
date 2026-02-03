@@ -2,6 +2,7 @@
 layout: default
 title: "My-soul-is-the-arena"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 50
 ---
 

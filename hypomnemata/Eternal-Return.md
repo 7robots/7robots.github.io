@@ -2,6 +2,7 @@
 layout: default
 title: "Eternal-Return"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 19
 ---
 

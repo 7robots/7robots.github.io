@@ -2,6 +2,7 @@
 layout: default
 title: "Maps-and-mazes"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 48
 ---
 

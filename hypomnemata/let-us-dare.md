@@ -2,6 +2,7 @@
 layout: default
 title: "Let-us-dare"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 43
 ---
 

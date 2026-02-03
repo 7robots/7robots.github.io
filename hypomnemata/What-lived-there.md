@@ -2,6 +2,7 @@
 layout: default
 title: "What-lived-there"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 106
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Clouds"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 15
 ---
 

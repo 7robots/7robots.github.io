@@ -2,6 +2,7 @@
 layout: default
 title: "First-ldeal"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 21
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Water-Dancer"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 98
 ---
 

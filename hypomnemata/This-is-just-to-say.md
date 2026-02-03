@@ -2,6 +2,7 @@
 layout: default
 title: "This-is-just-to-say"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 91
 ---
 

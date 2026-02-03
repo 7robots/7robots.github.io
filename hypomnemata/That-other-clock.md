@@ -2,6 +2,7 @@
 layout: default
 title: "That-other-clock"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 70
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "We-lived-in-joy"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 100
 ---
 

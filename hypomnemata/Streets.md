@@ -2,6 +2,7 @@
 layout: default
 title: "Streets"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 66
 ---
 

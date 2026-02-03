@@ -2,6 +2,7 @@
 layout: default
 title: "It-would-taste-like-music"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 37
 ---
 

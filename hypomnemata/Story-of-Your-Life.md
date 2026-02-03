@@ -2,6 +2,7 @@
 layout: default
 title: "Story-of-Your-Life"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 65
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Hades-to-Persephone"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 30
 ---
 

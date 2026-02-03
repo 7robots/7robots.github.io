@@ -2,6 +2,7 @@
 layout: default
 title: "Slowness"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 60
 ---
 

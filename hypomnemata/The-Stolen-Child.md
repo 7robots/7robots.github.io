@@ -2,6 +2,7 @@
 layout: default
 title: "The-Stolen-Child"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 79
 ---
 

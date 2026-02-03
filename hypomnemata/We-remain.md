@@ -2,6 +2,7 @@
 layout: default
 title: "We-remain"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 102
 ---
 

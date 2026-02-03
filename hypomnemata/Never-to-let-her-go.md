@@ -2,6 +2,7 @@
 layout: default
 title: "Never-to-let-her-go"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 52
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "From-Railsea"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 23
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Cool-showers"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 17
 ---
 

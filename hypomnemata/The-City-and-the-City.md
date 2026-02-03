@@ -2,6 +2,7 @@
 layout: default
 title: "The-City-and-the-City"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 75
 ---
 

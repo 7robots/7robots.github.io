@@ -2,6 +2,7 @@
 layout: default
 title: "Get-out-into-the-mountains"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 25
 ---
 

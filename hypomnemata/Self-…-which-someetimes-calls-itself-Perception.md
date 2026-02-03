@@ -2,6 +2,7 @@
 layout: default
 title: "Self-…-which-someetimes-calls-itself-Perception"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 59
 ---
 

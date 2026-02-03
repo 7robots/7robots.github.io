@@ -2,6 +2,7 @@
 layout: default
 title: "The bridge is love"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 71
 ---
 

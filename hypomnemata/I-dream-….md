@@ -2,6 +2,7 @@
 layout: default
 title: "I-dream-…"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 33
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "Joyce-will-never-have-any-more-fruit-punch"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 40
 ---
 

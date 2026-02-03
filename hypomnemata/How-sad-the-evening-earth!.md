@@ -2,6 +2,7 @@
 layout: default
 title: "How-sad-the-evening-earth!"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 32
 ---
 

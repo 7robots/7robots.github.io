@@ -2,6 +2,7 @@
 layout: default
 title: "Be-taught-now-among-the-trees-and-rocks"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 11
 ---
 

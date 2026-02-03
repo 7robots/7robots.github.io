@@ -2,6 +2,7 @@
 layout: default
 title: "Where-are-we-going-next"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 107
 ---
 

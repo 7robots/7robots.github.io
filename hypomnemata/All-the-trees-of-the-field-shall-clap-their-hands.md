@@ -2,6 +2,7 @@
 layout: default
 title: "All-the-trees-of-the-field-shall-clap-their-hands"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 5
 ---
 

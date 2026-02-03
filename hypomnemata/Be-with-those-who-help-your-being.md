@@ -2,6 +2,7 @@
 layout: default
 title: "Be-with-those-who-help-your-being"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 12
 ---
 

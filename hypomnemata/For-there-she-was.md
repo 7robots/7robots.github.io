@@ -2,6 +2,7 @@
 layout: default
 title: "For-there-she-was"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 22
 ---
 

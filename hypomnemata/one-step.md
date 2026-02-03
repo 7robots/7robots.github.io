@@ -2,6 +2,7 @@
 layout: default
 title: "One-Step"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 53
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: "How-do-you-aim-a-volcano"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 31
 ---
 

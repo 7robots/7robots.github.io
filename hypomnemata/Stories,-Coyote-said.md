@@ -2,6 +2,7 @@
 layout: default
 title: "Stories,-Coyote-said"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 64
 ---
 

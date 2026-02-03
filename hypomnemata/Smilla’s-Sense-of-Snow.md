@@ -2,6 +2,7 @@
 layout: default
 title: "Smilla’s-Sense-of-Snow"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 61
 ---
 

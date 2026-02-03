@@ -2,6 +2,7 @@
 layout: default
 title: "What-does-love-require-of-you"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 104
 ---
 

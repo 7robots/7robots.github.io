@@ -2,6 +2,7 @@
 layout: default
 title: "World-Line"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 109
 ---
 

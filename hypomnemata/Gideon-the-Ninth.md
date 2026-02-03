@@ -2,6 +2,7 @@
 layout: default
 title: "Gideon-the-Ninth"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 26
 ---
 

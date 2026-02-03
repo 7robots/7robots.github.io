@@ -2,6 +2,7 @@
 layout: default
 title: "slant"
 parent: hypomnemata
+nav_exclude: true
 nav_order: 115
 ---
 
